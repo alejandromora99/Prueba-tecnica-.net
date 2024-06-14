@@ -16,6 +16,8 @@ builder.WebHost.ConfigureKestrel(options =>
 
 // añado servicios
 builder.Services.AddControllers();
+builder.Services.AddScoped<CsvImportService>();
+
 
 // Configuro entidades del framework
 builder.Services.AddDbContext<ApplicationDbContext>(options =>

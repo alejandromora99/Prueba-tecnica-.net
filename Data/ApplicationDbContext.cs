@@ -15,6 +15,7 @@ namespace CronProject.Data
 
             modelBuilder.Entity<DataRecord>(entity =>
             {
+                entity.Property(e => e.Id).ValueGeneratedOnAdd();
                 entity.Property(e => e.RutClienteEnvia).IsRequired().HasMaxLength(12);
                 entity.Property(e => e.NombreClienteEnvia).IsRequired().HasMaxLength(100);
                 entity.Property(e => e.IdTransaccion).IsRequired().HasMaxLength(20);
