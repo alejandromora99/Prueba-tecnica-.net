@@ -1,0 +1,501 @@
+RutClienteEnvia,NombreClienteEnvia,IdTransaccion,RutClienteRecibe,NombreClienteRecibe,CodigoBancoReceptor,NombreBancoReceptor,MontoTransferencia,MonedaTransferencia,FechaTransferencia
+20278265-5,Haroldo del Duran,WFXH9FKPU9,16007033-7,Nando Villalobos Iniesta,39,Banco Estado,340375,USD,07/07/2022
+19394027-1,Mateo Manzanares Patiño,8JD8QT175M,14112253-7,Roldán Cánovas,55,Banco Consorcio,1991260,EUR,12/04/2023
+18047753-4,Violeta Cabello Cabrero,JYS3H4LTV4,18123758-6,Violeta del Ferreras,28,Banco BICE,8243862,EUR,17/12/2023
+21282560-3,Valentín Sevilla Múñiz,F16YTCL291,13842541-3,Onofre Carreño Romero,51,Banco Itaú,4458830,CLP,08/11/2023
+16490874-1,Rosa María Macias Roma,OPKIVZ9RU6,22679706-2,Berto Múgica Boix,1,Banco de Chile,8024085,EUR,13/02/2023
+15567478-4,Bartolomé Fonseca Infante,OUXBASDECI,13777411-3,Heraclio Benítez Abella,16,Banco Santander,1425823,CLP,13/04/2024
+18170308-8,Eloy Vendrell Enríquez,L1RE0ZG2FY,15461781-8,Macario Herrera,14,Scotiabank,342665,USD,25/05/2024
+16688293-8,Alfonso Alcolea Parejo,7LC5EGF0E7,12287899-2,Adoración Solano Muñoz,1,Banco de Chile,6981133,USD,16/07/2022
+16125765-4,Susana Gálvez Oliva,DT7B0J8KG5,24293020-7,Angelita del Salazar,39,Banco Estado,333532,CLP,18/02/2024
+14189243-1,Perla Galán Parra,XFZHQ36KEG,22837305-4,Leonel Machado Ferreras,14,Scotiabank,7639797,EUR,04/05/2023
+16281564-9,Ruth Torrents Cobo,5NJRFROIR7,20909356-9,Carmen Iriarte Campo,9,Banco Internacional,3407679,EUR,17/12/2022
+24821907-6,Maxi Morán Zabala,SPB51ZVG7O,18871143-7,Verónica Rueda-Múñiz,49,Banco Falabella,33785,CLP,02/05/2023
+24228731-4,Sebastian del Catalán,LWKOY8VLJB,13128256-4,Carolina Barreda Vazquez,39,Banco Estado,4940423,EUR,26/04/2023
+13135717-0,Nilo Cruz Valero,UVEE525REI,21122492-7,Anacleto Guillermo Benet Quero,9,Banco Internacional,6098443,EUR,29/12/2022
+19146403-6,José María Cadenas Girona,8GQC6LQ9GX,23613546-3,Leandra Romero Escrivá,37,Banco Security,6275192,EUR,09/11/2023
+12037231-9,Teófila Andrés,YTC1XFII6T,21972226-1,Leandro Vallejo Sanmartín,39,Banco Estado,7538395,EUR,28/10/2022
+14098703-8,Maximiano José Valdés Echeverría,HHVZMKXRZV,21149263-3,Noé Gascón Simó,51,Banco Itaú,3056051,EUR,17/10/2022
+17683187-3,Javi del Piñol,QAH5430V0F,21468519-4,Blanca Noelia Osuna Domingo,9,Banco Internacional,9822139,USD,10/08/2023
+12359362-2,Fermín Blanch Ropero,BM2DTOAOQB,16105900-6,Rodrigo Riquelme,49,Banco Falabella,933075,CLP,24/08/2023
+24449102-6,Ciro Segarra Correa,MAJWEPGU9Z,21404984-6,Anastasia Gisbert Huertas,1,Banco de Chile,6501693,USD,03/09/2022
+24223269-7,Manolo Villaverde Araujo,2HMHJFSJPF,10510838-4,Mercedes Dominguez Cabeza,39,Banco Estado,6034569,EUR,23/01/2024
+22958514-8,Delfina Sofía Nicolás Diaz,SESJAN77N8,18017337-4,Apolonia Cruz Oliva,39,Banco Estado,3862147,EUR,18/07/2023
+19077951-2,Azeneth Ricart Valero,C6YFLDOBR9,20579196-4,Gala León Gomis,9,Banco Internacional,4610774,CLP,18/02/2024
+17121919-6,Tadeo Cervera Guardiola,L6QQGTU08J,10603413-7,Francisco Jose Paredes,9,Banco Internacional,9273254,CLP,27/11/2022
+13935064-3,Sosimo Arnaiz Clemente,50L6NMVU6M,14796870-9,Calista Llopis Morell,37,Banco Security,6880122,EUR,01/11/2022
+21016934-0,Dorita Clarisa Pedrosa Dueñas,TCDY2B9GIG,11690777-1,Encarnación Bolaños Doménech,1,Banco de Chile,5639863,USD,18/06/2022
+23115718-9,Celestina Pacheco Robledo,ZNFSA4LFBL,12861263-5,Juan Bautista del Escribano,39,Banco Estado,8534954,USD,29/04/2024
+14464226-3,Rico Guzman,3PD6AT19HU,10418441-7,Alondra Cózar,1,Banco de Chile,4694790,EUR,30/01/2024
+10631944-6,Sarita Vila Meléndez,JX8I88XYY0,15866430-7,Darío Cristian Gallego Barón,28,Banco BICE,710633,CLP,06/08/2022
+15437722-2,Ani Vazquez Recio,13TEQI09LH,18182495-3,Amancio Águila Dueñas,1,Banco de Chile,8346183,CLP,17/02/2023
+21189250-2,Blas Alcántara Salvador,FQEK8A0ZSV,24439469-5,Ascensión Aragón Planas,55,Banco Consorcio,1485215,EUR,25/01/2024
+16346095-3,Pía Torralba Santos,PMUGMDU2SO,18536395-8,Luciana Marina Pujadas Otero,39,Banco Estado,7797849,CLP,05/12/2023
+13339424-4,Luz Pérez,WFFHLLFRFI,16841847-6,Josep Rosell Manso,16,Banco Santander,3743266,USD,03/12/2022
+10581761-4,Chita Garrido Cerro,PF3JWCP8BH,11594136-2,Luisa de Álvarez,16,Banco Santander,231648,CLP,22/10/2022
+19397582-0,Almudena de Mayo,GJ17B98HCS,21478032-6,Anna Villalobos Viñas,16,Banco Santander,6203198,CLP,09/08/2023
+10708247-7,Hermenegildo Vallés Requena,RHRKOV2Y13,10497581-0,Celso Abel Salvà Pozuelo,55,Banco Consorcio,6167985,CLP,28/07/2023
+23668951-9,Trinidad Acevedo Yuste,6M17OUMFFK,14634438-7,Liliana Miguela Barroso Fuente,49,Banco Falabella,7692240,USD,29/12/2023
+19709325-0,Juan Cervantes Artigas,C1742N8IOL,18188769-8,Alberto Sales,14,Scotiabank,5163399,USD,16/07/2022
+16230314-4,Lucía Acevedo Jove,MIM2DP77FG,24417252-8,Francisca Pol-Ripoll,55,Banco Consorcio,2229621,USD,25/02/2024
+24999179-3,Tristán Pujadas Tamayo,6EB7WWQ5DZ,21709038-2,Paco Zaragoza-Aguado,14,Scotiabank,508775,USD,26/04/2024
+13791512-9,Graciano Baena Almazán,VIQBSAQAD2,23946672-6,Fabricio Arteaga Serra,16,Banco Santander,9355938,USD,21/03/2024
+20063070-7,Perlita de Prada,080ASDMLTE,18177704-2,Mayte Rodrigo Gómez,28,Banco BICE,8267215,USD,20/12/2023
+17459566-2,Noelia Oriana Almeida Falcón,DKP83BIGF7,16808446-9,Fernanda Pi Cánovas,14,Scotiabank,8033694,USD,05/01/2024
+15817561-1,Kike Hoz Villa,30XJ6WI2IQ,19151791-1,Antonio Paz Ribera,55,Banco Consorcio,6365352,EUR,18/12/2022
+21500114-6,Leyre Trujillo Valenciano,SR7OPLXM6S,10326251-5,Daniel del Alsina,28,Banco BICE,2201794,CLP,06/12/2023
+15289623-0,Dalila Candela Ferrán Trillo,V4AVOR2AIQ,12467023-7,Berta Amaya Castejón,1,Banco de Chile,1803307,USD,19/10/2022
+19165316-5,Adora del Samper,XT9DX1Y6ZM,19529958-8,Oriana Garay Sanmiguel,49,Banco Falabella,8742700,EUR,13/03/2024
+16026808-8,Nicodemo Arcos Viñas,GHBL5PQNT8,17819961-9,Teodosio Téllez Marin,9,Banco Internacional,1394653,CLP,08/11/2022
+15198708-8,Juan Manuel Carnero Perea,YEH3JMOY64,14940558-3,Hector Zurita Palomo,55,Banco Consorcio,3496247,CLP,16/07/2023
+20013471-2,Adalberto Valdés Velázquez,RCK92UAKSQ,10439993-0,Domingo Bayón-Martinez,37,Banco Security,9209932,CLP,12/04/2024
+20302197-9,Azahar Belmonte Llabrés,BOBHFJ7QMN,18937565-7,Felisa Alsina,14,Scotiabank,9922493,EUR,14/08/2023
+11161353-0,Ainoa Alarcón,147Q8XYS4C,12920154-2,María Cristina Cifuentes,39,Banco Estado,6658329,USD,07/05/2024
+20493140-6,Eutropio Garcés Viña,F9Y5XUMNI1,17466493-7,Rogelio de Jáuregui,9,Banco Internacional,9523885,USD,01/11/2022
+24808865-8,Omar Agustí Barrena,KOZVFFW638,15200832-9,Marcia Fabra,16,Banco Santander,1985694,CLP,06/10/2022
+20748985-4,Micaela Marisela Millán Corral,YDDLCHE0TY,14925249-4,Rafaela del Alsina,39,Banco Estado,5400313,USD,22/09/2022
+21165374-5,Hermenegildo Lillo,ASJSABN3RU,15973279-4,Jose Angel Oliver-Becerra,9,Banco Internacional,2307625,EUR,23/11/2022
+14268908-9,Trini Candela Reig Montesinos,CX876ELM0S,12417615-1,Saturnino Belda,16,Banco Santander,7340741,EUR,25/05/2023
+19720990-2,Caridad Vargas Plana,4CZ7GKROZS,16811475-3,Buenaventura Díaz Bonilla,28,Banco BICE,4715901,USD,30/06/2022
+10603535-6,Amelia Fiol Salazar,3KC01YND1G,11412771-0,Chema Jerónimo Chico Taboada,37,Banco Security,50021,EUR,06/10/2023
+20170487-9,Brígida Palacio Rojas,TJLABAN05R,11752334-7,Eva María Encarnita Gomila Escamilla,39,Banco Estado,9658790,CLP,05/02/2023
+18766677-7,Adriana de Roselló,KTNGAMK18V,23634415-0,Yéssica Ferrera Tomé,55,Banco Consorcio,2521296,EUR,24/07/2023
+13897431-2,Estela Antón Amo,K2NFEJUR6B,12511726-7,Galo de Delgado,51,Banco Itaú,6617328,USD,20/12/2023
+22508807-7,Chuy Mauricio Pozuelo Carreño,BHNPXUC1O8,16466222-2,Feliciano Boada-Jara,39,Banco Estado,3817381,USD,17/06/2022
+22107894-2,Severino Baudelio Elías Bastida,3VNV6Z344M,17672094-6,Diego Portero-Carballo,55,Banco Consorcio,6270043,CLP,15/12/2023
+15189380-3,Maxi Gelabert-Porcel,GVKSSVFENT,23610263-1,Melchor Sandoval-Conde,51,Banco Itaú,5303166,EUR,10/01/2023
+22418613-6,Marcio Cañete Palma,UH7H8GB90T,15728780-2,María Teresa Pelayo Soler,14,Scotiabank,7813154,EUR,20/03/2024
+23935182-8,Trinidad Tomé Granados,GM95N915OK,12282002-7,Hugo Valenzuela Lucena,37,Banco Security,9099769,EUR,13/11/2022
+14975912-1,Noa Barriga Colom,9MSKAAB1QD,22451209-7,Mercedes Miró Pizarro,16,Banco Santander,1063672,CLP,29/03/2024
+13980292-1,Graciela Lago-Amor,XAZW92ZZR4,11061801-0,Hernando Novoa Tomas,1,Banco de Chile,9405123,CLP,28/04/2024
+10908717-9,Noemí Solé-Moraleda,QDOM7WTBUT,17855611-2,María José de Domingo,9,Banco Internacional,9380730,EUR,23/05/2024
+24216611-9,Clara de Agustí,MJ57WJM191,20991029-5,Eutimio Paniagua Tena,37,Banco Security,8591484,EUR,12/01/2024
+11063249-3,Florentino de Amigó,9729PJREGM,12178821-5,Vanesa Paniagua Huertas,14,Scotiabank,7632665,EUR,09/12/2023
+13695874-0,Leoncio Valerio Tejedor Ariño,HGJD4R55GK,16718899-9,Quique Rios Esteve,14,Scotiabank,7035223,USD,21/02/2023
+15673273-3,Anselma Mendoza Salgado,JMQI2S8ACH,15927251-9,Olivia Aguado Sureda,51,Banco Itaú,1552996,EUR,13/08/2022
+12393353-2,Lalo Patiño,QY3C7FJLUZ,24401623-3,Esteban Blanca Royo,9,Banco Internacional,617534,CLP,15/03/2023
+24883214-4,Dorotea Gutierrez Silva,46K5JZO9LZ,10385357-5,Ágata Vélez Bermúdez,37,Banco Security,4816202,CLP,18/02/2024
+10267336-4,Lalo Sedano,WMT83RDSOK,21108021-2,Lucas Maestre Pino,37,Banco Security,4245032,CLP,07/06/2023
+14584718-2,Adelardo Echevarría Molina,WQI5FYLW1N,16282318-0,Macario Cortina-Ordóñez,55,Banco Consorcio,8592948,CLP,21/02/2023
+21979429-4,Gabino Fabregat Briones,CGAIB9T432,10817794-5,Darío Vazquez,39,Banco Estado,2868959,EUR,27/05/2023
+21525997-8,Jaime Donoso,Y5BYK82HZ4,16600497-1,Jose Carlos Arrieta,1,Banco de Chile,6453229,EUR,27/10/2022
+11405788-3,Lola de Niño,22IIT6UD1V,24011451-5,Tamara Talavera-Montoya,39,Banco Estado,7560617,USD,21/12/2023
+17360727-8,Leocadio Evaristo Paredes Rocha,RNUPZUKHIW,11729845-2,Verónica Macarena Vara Vives,16,Banco Santander,8177170,EUR,17/08/2023
+18741227-7,Josefina del Jordán,37Y6HI7JLW,24029379-3,Yéssica Palomo Pizarro,28,Banco BICE,3949742,USD,27/09/2023
+21880012-2,Ricardo Lago Pastor,IHUBQYG8FI,23877721-5,Cipriano Soto,49,Banco Falabella,5165939,CLP,06/08/2023
+11395493-3,Jesús Angulo,PHIHDLCLNM,23573758-9,Gabriela Morillo Abad,1,Banco de Chile,7607867,CLP,05/05/2023
+13925006-8,Mamen Juliá Menendez,LTPQY2W3E2,18921845-4,Anselmo Sarmiento Pinedo,9,Banco Internacional,8653052,CLP,07/01/2023
+23413317-4,Camilo Arrieta-Vila,E0MAM91THR,12758943-5,Vinicio Inocencio Barrio Salinas,16,Banco Santander,1586669,CLP,20/11/2022
+22971381-1,Calixto Espada Carrasco,1ZW9ZUD98B,18754324-7,Matías Sotelo-Amigó,14,Scotiabank,9745838,EUR,13/04/2024
+14620600-7,Albino Mínguez García,O3WZHIAR6K,21386227-1,Sebastián Galiano Egea,9,Banco Internacional,4112399,EUR,14/02/2023
+11265290-9,Xavier del Mendoza,K8AYDCVP2J,12582508-7,Noé Vila Pineda,28,Banco BICE,6129436,EUR,11/10/2023
+10358575-1,René Castañeda Cuenca,L86OYGHCFC,20185486-6,Ester Moraleda Acedo,9,Banco Internacional,2030131,USD,16/06/2023
+20358123-1,Prudencia Almagro Casanova,ZY93AZ1OTC,18152932-5,Desiderio Lledó Terrón,51,Banco Itaú,8033674,CLP,10/03/2023
+24938890-3,Gabriela Moreno Parejo,4RAWLLO8FJ,15080026-6,Samanta Plana Olmedo,1,Banco de Chile,2040743,USD,18/04/2024
+12797702-3,Porfirio Peña Porras,CPNM6AHAWG,24174399-5,Federico Patiño-Chacón,39,Banco Estado,4332171,USD,29/05/2023
+16852094-9,Mamen Luna Ledesma,XVJEJMG74R,18963970-2,Reina del Niño,28,Banco BICE,3061593,EUR,20/06/2023
+22337166-0,Febe de Sanabria,VG3RRFNQVY,15241427-9,Anabel Montero Calderón,51,Banco Itaú,1584849,CLP,04/10/2023
+24915140-5,Dalila Landa Teruel,UUH7BH4UBZ,13538256-3,Leocadia Ródenas-Diaz,9,Banco Internacional,5529303,CLP,15/03/2023
+10350511-5,Paloma Guillen Alcalá,B1HCHUPA4X,17696702-7,René Raya,9,Banco Internacional,3577234,CLP,04/09/2022
+13797542-9,Hipólito Yuste Barrios,TV31I3ND39,16672100-2,Benita de Sevilla,51,Banco Itaú,2076241,USD,24/02/2024
+12186347-8,Eladio Álvarez,FUM4EYHJDU,19119300-8,Armida Gual Soriano,9,Banco Internacional,2243311,CLP,15/02/2023
+24433038-3,Fátima Tenorio Benet,MJQUV4DNVS,13316868-5,Pastor Amat,16,Banco Santander,7864178,USD,05/09/2022
+15750248-0,Gala Báez Crespi,3VNS2UPBZF,24899403-6,Reinaldo Mármol,49,Banco Falabella,4698711,EUR,22/08/2023
+19429868-7,Paloma Flores Tomé,2F6O049EKV,13771141-7,Ana Vazquez Peláez,49,Banco Falabella,560182,USD,27/04/2024
+20671489-3,Roldán Cid Alonso,LTNJYV4Y03,24226032-0,Jeremías Hernando Zorrilla,37,Banco Security,522746,USD,20/02/2024
+10403012-4,Cleto Muro Rincón,GW4S0FHQC9,17058960-7,Fátima de Llobet,49,Banco Falabella,8628468,EUR,13/08/2022
+11742301-0,Sandra Molina Pascual,A3M8DGVCHP,12135111-7,Nélida Porcel-Gabaldón,14,Scotiabank,5823951,EUR,28/12/2022
+13301330-7,Lázaro Durán Andrade,DMZKO85F6L,22676775-7,Serafina Domínguez Alberto,55,Banco Consorcio,470772,USD,05/01/2023
+15918656-3,Herminio Plaza,MU2VL9Y6GP,24108376-6,Damián Guillen Arévalo,51,Banco Itaú,3569111,EUR,15/06/2023
+10341082-5,Selena Casanovas Fuertes,SQMEUC5MYU,12575059-5,Guillermo Cisneros González,16,Banco Santander,5906706,CLP,12/04/2023
+17437242-9,Aura Ureña Balaguer,TNHAVFNUB7,19250500-1,Javi Fuertes Aguirre,28,Banco BICE,59206,EUR,21/12/2023
+21194209-2,Florencio Vega Rey,UM3RT6XRJX,16610575-3,Pelayo de Benet,39,Banco Estado,3633926,EUR,25/04/2023
+16469150-4,Rafa Barbero Montenegro,80LTQ4XB9O,11272461-3,Juan Manuel Alegria Manso,1,Banco de Chile,7078265,EUR,02/08/2022
+15018993-3,Pepito Raya Tejera,V42ZV1J6HV,14758251-5,Gabino Mendizábal Rico,51,Banco Itaú,5168860,USD,04/07/2022
+22956374-0,Américo Perera Domingo,QRCWQGQMEB,20310266-4,Josefina de Huertas,55,Banco Consorcio,9892123,CLP,08/05/2024
+19338438-7,Rosalina Martínez,DTFF8YUQAB,18772702-2,Remigio Heriberto Fuente Bernat,1,Banco de Chile,6696174,USD,12/06/2023
+15698623-2,Ester Jara Girón,H98MSR56W8,10932124-9,Joel Goñi Corbacho,28,Banco BICE,4979523,CLP,20/09/2023
+23511853-7,Noemí Pont Olivé,099NFHEGZT,20421944-7,Xiomara Pareja Lasa,1,Banco de Chile,9458312,EUR,09/11/2023
+17065882-6,Dorotea Berenguer Robledo,SXZBBYA9EH,15394141-1,Valentina Serrano,16,Banco Santander,1770016,CLP,14/05/2024
+10128145-1,Jenaro Pedrosa Huerta,HU9LD8AIHD,24596014-6,Angelino Sabater Iglesia,14,Scotiabank,6743770,USD,03/12/2022
+12649879-3,Aníbal Arjona,S7UEYJRLMX,10666994-8,Leocadio de Quintero,16,Banco Santander,413980,EUR,23/04/2023
+24064020-6,Íñigo Goñi-Segovia,S9MPJXN47S,17129682-4,Rosa María Bárcena Morata,49,Banco Falabella,8482442,CLP,30/07/2023
+13853921-9,Pelayo Emiliano Piñeiro González,0Q37TVU9GX,19196181-4,Agapito Hierro,55,Banco Consorcio,7856605,CLP,24/10/2023
+22654175-0,Pascuala Madrid Vázquez,IIXV36O6MP,10977843-8,Clemente del Miró,1,Banco de Chile,3771552,USD,26/06/2023
+15704412-1,Rocío Colom Moreno,4FUUH7F1B4,10122415-4,Vasco Benito,49,Banco Falabella,5514300,CLP,11/12/2023
+12892455-2,Alexandra Cerro Gallego,FC1QM4BWYK,17025338-3,Tristán Bravo Aguado,1,Banco de Chile,4612861,CLP,11/12/2022
+18475407-5,Victorino Carretero,ZTMF2BRT3L,17522276-8,Ruy Benito Rosselló,37,Banco Security,1695470,USD,18/01/2023
+15560808-0,Marc Amo Español,UQ02V6UYNQ,15623459-5,Maricela Barranco Aguiló,39,Banco Estado,6347829,EUR,31/07/2022
+15820039-6,Evangelina Carrera Fiol,4VB2NIJPUS,17877897-7,Melchor Valderrama,49,Banco Falabella,9404160,EUR,20/09/2022
+14323100-3,Elena Bermúdez Bernal,OZ2Z1SUO2U,21234711-6,Marina Obdulia Alcolea Mora,14,Scotiabank,3116654,EUR,28/08/2022
+17546305-5,Jose Antonio Prada Perez,YE82BJUUOZ,19055885-1,Severino Elías-Paniagua,39,Banco Estado,936747,EUR,24/05/2024
+23863298-4,Constanza Valenciano,JV7ESLYYJZ,22942041-9,Eliseo López Valenzuela,14,Scotiabank,2163110,CLP,03/11/2022
+21501911-6,Estefanía Marcos Palma,9NDP5PNDE6,11306351-2,Alba Suárez-Pérez,14,Scotiabank,8583006,EUR,09/04/2024
+22103628-5,Verónica Toledo Conde,X949JOI598,24233001-6,Bruno del Ferrándiz,9,Banco Internacional,5651493,CLP,16/08/2023
+11708206-5,Hipólito Escolano Cuesta,KYBLLCC4HV,15347155-2,Silvia Armengol Calvo,14,Scotiabank,6674401,CLP,24/05/2024
+13047538-5,Gilberto Carlito Roig Arribas,9Q7WH0MLQY,18626679-7,Juan de Parra,39,Banco Estado,2288000,USD,03/10/2022
+11261185-8,Rosendo Múgica,089UQT78NY,14209717-5,María Carmen Bernal Escudero,49,Banco Falabella,5911608,EUR,26/04/2023
+20634670-0,Nazaret Vigil-Mir,HEHSYYAF3N,18432383-2,Jeremías Narciso Ayuso Hurtado,14,Scotiabank,6642797,EUR,05/05/2023
+11172972-5,María Jesús Carreras Viñas,E26OUHGPX8,23061935-4,Laura Carreras Fabra,49,Banco Falabella,9256074,CLP,03/09/2022
+15521774-7,Omar Llorens Díaz,SOUF988Z7I,20539013-0,Alexandra Mayo Garcés,49,Banco Falabella,947595,EUR,04/02/2023
+13812399-5,Horacio del Pareja,5QM6LBTVB3,14084780-1,Amado Gisbert Pera,16,Banco Santander,5918265,USD,06/04/2023
+17991782-1,Abril Blázquez Alcázar,K42O7YWUEH,24431418-4,Flavia Marti Prado,51,Banco Itaú,7993731,CLP,27/08/2023
+24510047-6,Aarón Borrego-Iborra,UXVFZMZJGJ,22733471-7,Anselma Guerrero Ballester,16,Banco Santander,360687,USD,24/10/2022
+16823562-2,Ismael Diez Diéguez,TGE78KP6ZO,19059604-0,Clarisa Grande Escribano,39,Banco Estado,4331725,CLP,28/08/2022
+19823816-8,Viviana Garmendia-Oliveras,A504OB3SEJ,17836979-1,Florentina Acero Lasa,16,Banco Santander,2170206,EUR,12/03/2023
+12196785-1,Javi Sotelo Maestre,Z8G73T60AL,14670265-8,Nayara Casanovas Prat,1,Banco de Chile,793054,CLP,25/10/2022
+11330592-8,Jacobo Nadal Cervantes,C0PMWHL9XL,13925988-1,Miriam Calzada Gutierrez,39,Banco Estado,3907920,CLP,08/04/2024
+11699910-3,Elba Bauzà Pedrosa,C1GGAX9Z4U,23003417-3,Carla Arana-Campos,16,Banco Santander,4172463,EUR,10/08/2023
+21958181-6,Edmundo Ochoa-Mariño,OK89QO1SNU,22908491-8,Ricarda Yésica Muro Álvaro,28,Banco BICE,2722812,EUR,17/10/2023
+18310427-8,Mohamed Ramis Cases,8Y4D12YLBJ,10666880-0,Noé Bejarano Gárate,55,Banco Consorcio,4715058,EUR,20/08/2023
+22253677-6,Bartolomé Ariza Oliva,SNLJFC9UIR,13764502-5,Alondra Luna Carrasco Peña,39,Banco Estado,4945386,USD,23/11/2022
+16293068-1,Ruben Valdés-Bernat,7MSBZJFZXJ,19909667-5,Eduardo Palma-Manzanares,55,Banco Consorcio,4639606,USD,01/08/2023
+13280193-9,Adora Jiménez Badía,SV0TA8FRHY,15931793-0,Apolonia Trillo-Posada,9,Banco Internacional,8617215,USD,12/01/2024
+12486791-4,Xiomara Mármol Nevado,OAZIX4ZJ2Q,23446246-2,Maura Verdejo,9,Banco Internacional,2451451,USD,26/08/2023
+23985560-3,Pilar Salamanca-Pagès,PDZWYH46IT,18978140-7,Andrés Montalbán Cózar,37,Banco Security,6025509,EUR,21/02/2024
+20816837-3,Ricarda Méndez Prada,OVRJJPF21W,24946394-7,Serafina Figuerola Tur,9,Banco Internacional,3618446,EUR,10/03/2024
+22201801-5,Alcides Cabo Marí,SCM8DLHV5Y,16665077-0,Abraham Villalba Ribera,1,Banco de Chile,1191031,EUR,13/08/2022
+22336531-7,Sosimo Barrena Gracia,I4N48D60F1,11963590-0,Javier Basilio Gárate Correa,49,Banco Falabella,1503877,CLP,02/07/2023
+13594867-8,Elodia Alemany Arias,KKJRAZZZ4C,18658141-3,Maxi Revilla,1,Banco de Chile,8860018,EUR,18/09/2023
+19651981-4,Gertrudis Ruiz,T3C2NAG7H2,23318680-9,María Fernanda Castro Alvarez,1,Banco de Chile,520253,USD,11/09/2023
+23629262-1,Felipa Becerra Montserrat,3L1XX46NXX,19438883-8,Isidoro Asensio Arribas,28,Banco BICE,971819,USD,13/10/2022
+17448374-9,Rosaura Angelina Tenorio Esteve,6IUX3RPDJB,12757462-6,Eufemia Fabregat Pedraza,14,Scotiabank,5002585,EUR,05/10/2022
+13664673-6,Amor Ropero Estrada,JIY5DHB3Y8,11422683-8,Jordi Tudela,55,Banco Consorcio,6303090,EUR,11/01/2023
+14523940-4,Rufino del Ricart,M1YJWZV6A5,11060891-9,Nadia Bello,37,Banco Security,5144870,EUR,13/08/2023
+24079941-7,Natanael Cristian Saavedra Gil,A2GWSYRRGU,15546532-0,Cayetano Molins Buendía,55,Banco Consorcio,1475269,EUR,10/07/2023
+13620440-8,Raquel Perales Santos,YPK8VJ5NSS,11022403-8,Amado Morán Cerezo,51,Banco Itaú,8236910,USD,18/11/2022
+13063706-6,Viviana Barrera Aguado,3HTH81E9Z9,24068177-6,René Martin,49,Banco Falabella,647357,CLP,14/08/2022
+12001992-2,Isaura Perelló Rico,K0OBRA8QMR,16001473-3,Edelmira Nuria Gaya Gabaldón,39,Banco Estado,6570066,CLP,13/10/2023
+18646135-4,Roxana Campos,9QOSW3X9O2,20441602-4,Amado Andrade Heras,14,Scotiabank,1866125,EUR,13/05/2023
+10338053-1,Amílcar Galiano España,58A8AUSFR3,24965971-7,Remedios García Miralles,37,Banco Security,5676945,CLP,04/02/2024
+19027508-1,Samanta Tejero Ángel,9ZXHRVOMB1,19539073-5,Jacobo Villaverde-Nebot,49,Banco Falabella,9684254,EUR,10/02/2023
+19433133-3,Bernardita Soler,6LICI8RRGJ,13640764-5,Matías Juan Antonio Gallart Sánchez,51,Banco Itaú,1564306,EUR,14/07/2022
+22793418-3,Javier Luque Pascual,EQCUINQ5U0,13063026-1,Francisco Javier Enrique Prada Alsina,9,Banco Internacional,7967250,EUR,20/10/2023
+16209003-4,Melisa Carretero Velázquez,LSF2R7VJ9C,15385105-5,Victor Nazaret Catalá Paniagua,16,Banco Santander,8623456,CLP,04/02/2023
+10064924-9,Yésica Apolonia Barragán Osorio,RV1QPCV8ST,24064159-1,Olegario Giralt Jove,37,Banco Security,7949745,USD,05/02/2024
+18588666-8,Nadia Dávila,VNL5KRX56L,15251077-2,Mamen Guerrero Andreu,9,Banco Internacional,7709780,EUR,07/04/2024
+19440736-1,Nélida Ortiz Carrera,RV0TU3F09L,18794980-3,Eufemia Aller Enríquez,37,Banco Security,4725367,CLP,09/07/2023
+24243572-3,Ezequiel Alcázar Ballester,AWNUYQ85N9,17909533-0,Fabiola de Arteaga,55,Banco Consorcio,7989844,CLP,06/07/2022
+21569957-7,Hipólito Nicolau Valenzuela,3ERNOVBVB9,11936281-2,Remedios Trini Infante Ariza,9,Banco Internacional,5725943,CLP,10/08/2023
+21169409-4,Gil Vera Castañeda,VSZEAXYJJ3,12131970-9,Sergio Cornejo Pedraza,39,Banco Estado,8691677,USD,09/12/2023
+15618077-2,Prudencia Etelvina Sierra Salamanca,Q468OXLFVX,23153600-7,Arturo Cañete Garriga,51,Banco Itaú,9323077,CLP,24/07/2022
+12339661-9,Jaime Blanch Vargas,9LKS1T2PWV,22486097-0,Jaime de Rivera,9,Banco Internacional,5165005,EUR,17/10/2023
+11195937-2,Bartolomé Molins Ropero,NC3RZO40NP,20956048-9,Leonardo Segovia Bastida,9,Banco Internacional,804510,CLP,03/07/2022
+20238597-2,Coral Soler Pulido,O73N1FYVWN,12088159-6,Dionisio Zapata Romero,9,Banco Internacional,5747602,CLP,27/11/2022
+19151811-4,Pancho Sarabia Álvarez,8JSTELKNF0,15744826-1,Evaristo Heredia Gallo,51,Banco Itaú,7679617,CLP,07/09/2023
+10344595-2,Américo Villalonga Peinado,ZJHO3MA02K,24386473-7,Mauricio Cervera Vilalta,37,Banco Security,6136804,USD,27/07/2023
+10543145-4,Macarena Benavent Sanmartín,7V3A81JYYQ,21663092-0,Nerea Toledo Sancho,51,Banco Itaú,6421946,USD,25/02/2024
+16201861-3,Natividad Menendez Escudero,GFZ5SR6PL4,15813542-6,Evelia Carbajo Cabañas,51,Banco Itaú,3076605,CLP,13/07/2023
+15911936-4,Bibiana Barriga Cueto,FMSM2B7YB5,12130885-3,Calixto Barberá,51,Banco Itaú,1554815,USD,17/09/2022
+17042353-8,Hermenegildo Ciríaco Perelló Quintana,GTSPTWI5B8,17485538-8,Carlota Rodríguez Alarcón,51,Banco Itaú,3921806,EUR,28/08/2022
+20255195-9,Herberto Exposito Vallés,M4W19C37W7,13827310-4,Amílcar Viana Bustos,16,Banco Santander,2841590,USD,01/04/2024
+13876607-2,Noelia Carreras Cañete,XIYGGXZTVB,14206981-0,Anselma Rovira Martínez,1,Banco de Chile,4797004,EUR,07/02/2024
+17938165-8,Segismundo Gómez Pelayo,OBIHMJCTEM,11094750-4,Roldán Raya Sierra,39,Banco Estado,6452351,EUR,25/12/2023
+12832925-7,Yéssica de Farré,MQF34XF445,16687873-9,Dafne Valle Amores,16,Banco Santander,1375785,USD,18/12/2023
+18520734-9,Rodrigo Moles Marti,N6SRAVWTVR,19148030-3,Plinio Costa Bru,51,Banco Itaú,2575169,CLP,21/06/2022
+22537014-6,Luisina Buendía Guitart,3W42MZNEUY,18003447-1,Pánfilo del Blanco,28,Banco BICE,5770650,CLP,19/10/2022
+18376802-1,Rafael Borrell-Fabra,LRY3C69NXZ,18121339-0,María Del Carmen Calatayud Aguilera,51,Banco Itaú,1604957,EUR,07/12/2023
+19204120-8,Leonardo Marcos Abellán,MES972G4DS,19933800-3,Marianela Ros Padilla,16,Banco Santander,7352038,EUR,27/03/2023
+10404255-4,Salomé Oliver Montes,9B9OE8AVDI,24834769-7,Modesto González Bernal,9,Banco Internacional,7868141,USD,28/07/2022
+22177770-0,Feliciana Alegria-Gallego,FKU7WGV3JY,12048268-3,Octavia Mayo Huguet,55,Banco Consorcio,6829102,USD,04/02/2024
+11363529-9,Santos Rosell Matas,5T8H9SYGEA,14337146-0,Jenny Acedo,39,Banco Estado,2113088,CLP,07/09/2022
+20925589-6,Flora Sáenz,LD2UJZ0B4O,19985154-8,Apolonia Sobrino Bayona,16,Banco Santander,8514258,CLP,30/10/2022
+20182884-6,Amaya Sevillano Amat,6V5JGQEYQZ,23202771-6,Nayara Bilbao Larrea,49,Banco Falabella,6662383,EUR,16/05/2023
+18994183-5,Rosalinda Albina Falcó Barba,G5YNA5KYXU,14348992-4,Artemio de Santiago,51,Banco Itaú,8105568,CLP,24/01/2023
+19074274-3,Adrián Piñol Viña,S4LJ5OPHKY,23641031-8,Berto Rocha Pintor,51,Banco Itaú,7259245,CLP,31/07/2023
+17319827-5,Hugo Cortina Miranda,BF71UBL9C2,12302557-1,Vinicio Desiderio Anglada Esparza,9,Banco Internacional,2102769,CLP,14/08/2023
+11088738-9,María Jesús del Marín,ORC8OK1LUD,23548032-8,Zoraida Lloret Gibert,55,Banco Consorcio,9615945,USD,09/03/2024
+12450195-9,Florina Cabello-Marín,CRIFQ1KOUX,14059992-4,Yago Lluch Beltran,37,Banco Security,4534030,CLP,26/10/2023
+18878877-9,Miguel Wilfredo Noguera Cordero,E0LC8SJ8YT,16540517-3,Fortunata Alegre Perez,1,Banco de Chile,7531418,CLP,29/07/2022
+17006585-3,Morena Vera Sáez,9WKDYUL5ZN,19335487-2,Concepción Tudela Tovar,14,Scotiabank,6619311,CLP,30/03/2024
+11195084-7,Lucila Baena Jódar,V3ZQUMINVX,24942463-0,Eustaquio Noguera-Riera,9,Banco Internacional,1434534,CLP,13/11/2022
+21550360-1,Luis Posada Roca,0O6FSWH2UI,19874558-4,Heraclio Soriano,1,Banco de Chile,7446596,EUR,07/04/2023
+21794108-2,Rosalina Mateo Castejón,I9OO64Q4CD,13769101-2,Viviana Bayona-Ramírez,49,Banco Falabella,5813180,CLP,22/03/2024
+15236204-5,Maximiliano Gargallo Puga,572544OCFD,19991357-8,Carlito del Bermúdez,28,Banco BICE,8536825,USD,29/10/2023
+16837066-3,Javiera del Bas,WGAZ6B7UHF,20572680-5,Custodia Iriarte,55,Banco Consorcio,2294049,CLP,08/11/2023
+16328530-2,Bienvenida Puig Ávila,AMF03C8FAT,20603754-4,Anastasio Fernandez Benavente,49,Banco Falabella,2565107,USD,27/06/2023
+14364514-8,Mercedes Vilanova-Herrero,YYM0YM2OT6,24121433-9,Macarena Posada Morata,39,Banco Estado,9481787,EUR,18/12/2023
+19089103-6,Miguela Eugenia Montaña Vilaplana,5QE7PR6P5F,14254787-6,Lorenzo Cornejo-Oliver,16,Banco Santander,1280293,EUR,02/04/2023
+15142782-4,Tatiana Díaz Villanueva,X5VTH0W8FU,16964569-6,Jenny Huertas-Rico,14,Scotiabank,6694345,CLP,05/11/2022
+12823171-3,Nicolás Sandalio Azcona Tapia,OEQ8X92VEV,14963916-0,Andrés Felipe Mariño-Mendez,37,Banco Security,7166949,EUR,27/09/2022
+19778423-7,Chuy Blanco Benito,Z11R01NXRA,23270923-9,Dionisio Tiburcio Alonso Lladó,37,Banco Security,9995046,USD,18/11/2023
+23030649-5,Felisa Llamas Real,TFXTBPEOQ5,11288646-6,Ariel Bayona Azorin,28,Banco BICE,6145383,USD,28/02/2023
+21508067-7,Cloe Mancebo Blanes,NJGF3S00NX,13011419-0,Maxi de Pacheco,49,Banco Falabella,5115900,EUR,31/10/2022
+13681230-3,Concha Tamarit,W9CWMDTGOO,23790633-8,Leire del Núñez,9,Banco Internacional,7585657,EUR,07/09/2022
+11261048-9,Ciriaco Armengol Valverde,4ZXCL23FHR,23002539-8,Anastasia Marisol Meléndez Juárez,16,Banco Santander,6033071,USD,22/11/2022
+19045648-4,Manu de Bayo,IA9IEIVBZL,21587087-0,Malena Ponce Sans,39,Banco Estado,572848,EUR,09/03/2024
+11334842-2,José Mari Vilalta Ruano,RLDDZF463B,18840001-3,Filomena Cabanillas-Amaya,39,Banco Estado,2236661,USD,01/02/2024
+13065958-9,Adrián Jurado Cerdá,W91Q03QZGR,12678262-3,Corona Belmonte,16,Banco Santander,9637171,USD,12/08/2023
+23154598-8,Alba Pulido Aguilera,VMKQ3VJFOA,14444339-2,Itziar Paniagua,9,Banco Internacional,84349,USD,23/09/2022
+20783424-9,Loreto de Sedano,3GUA18T76J,21960922-7,Basilio Esteban Benet,37,Banco Security,8790028,USD,25/08/2022
+22305364-2,Francisco Jose Tudela,80BCXBUDV9,13412853-4,Norberto Moraleda Huertas,39,Banco Estado,5984012,USD,29/04/2023
+13953612-7,Alonso Riquelme Martinez,VD58BEAYYY,23862626-9,Borja Jose Francisco Barranco Antúnez,28,Banco BICE,9067011,USD,23/10/2023
+11581594-6,Gerardo Trillo Hoz,XDJPLPPQVJ,19313131-0,Ruth Acosta Monreal,28,Banco BICE,3372971,USD,19/09/2023
+19282685-2,Calisto Gil Novoa Seguí,SSQD1VKFKM,10678908-5,María Belén Querol-Luz,51,Banco Itaú,5874899,EUR,15/06/2022
+10587888-7,Segismundo Pombo Franco,OUWAA0SABX,10455949-5,Diego Hernando Crespi,49,Banco Falabella,1163657,USD,18/04/2023
+22359778-6,Rómulo Lozano Hernandez,1NELLR37DL,12791671-4,Samuel Guardia Durán,9,Banco Internacional,1282338,USD,23/05/2023
+15849579-0,Erasmo Carreras Saavedra,2G9YVN5VHW,19565315-0,Jerónimo Aroca,9,Banco Internacional,49592,CLP,14/05/2024
+10482199-0,Ezequiel Méndez Ricart,MYW5PLJWJ6,12676204-8,Maite Morata Mariño,1,Banco de Chile,3274549,EUR,23/06/2023
+18091411-5,Blanca Albina Adán Elías,CRTSB2UV5L,15019991-3,Palmira Jaume Lladó,49,Banco Falabella,5209070,EUR,24/05/2023
+24496378-1,Mamen Garzón Barriga,W04N92VTST,10771899-5,Patricio Jiménez Puig,14,Scotiabank,4232562,EUR,16/01/2023
+14689477-8,Haroldo Gárate Pina,0Y14Q8XFQE,16407051-0,Mercedes Sarabia Salvador,55,Banco Consorcio,6092380,USD,22/11/2023
+17416911-6,Olimpia Jurado,W8S4YGDV5X,11244268-0,Simón Cabañas Artigas,39,Banco Estado,9053053,USD,20/08/2022
+21265758-9,Evaristo Rubio Méndez,XKOK0DULCQ,15255272-1,Anastasio Baeza Peña,1,Banco de Chile,8376971,CLP,22/11/2023
+21753064-2,Ildefonso Cervera,HVAWKMU198,11926515-6,Jacinto Tudela-Ribera,51,Banco Itaú,6871936,USD,20/06/2023
+13779564-7,Estrella Calzada Serra,9FV6VEIH7P,12915167-7,Marcos Durán Cantero,55,Banco Consorcio,3794803,USD,11/10/2022
+22195237-7,Graciana de Méndez,8BTCCDO6PK,12075088-1,Segismundo Ríos Antúnez,55,Banco Consorcio,4894373,EUR,11/10/2022
+14381367-8,Ariadna Ramirez,4J8F4BEUAP,22734888-1,Victor Manuel Castillo Gutiérrez,28,Banco BICE,3261471,CLP,05/02/2024
+13860497-4,Sarita Carmona Sedano,343UZTJ3BI,19658489-7,Jacinto Solano,39,Banco Estado,3179147,EUR,27/10/2022
+13282156-3,Virgilio Carballo,T8HNN93G5G,18112012-1,Alba Casandra Cuesta Valverde,14,Scotiabank,331399,CLP,27/03/2023
+17651256-8,Nayara Jurado Carro,0IDS3IV3HY,19345459-0,Jonatan Mendoza-Salinas,51,Banco Itaú,173918,CLP,19/08/2023
+21825901-2,Zacarías Madrid-Gelabert,426BY3GHQZ,15858461-9,César Santiago Goicoechea,1,Banco de Chile,537090,USD,03/11/2023
+23964312-3,Aníbal Téllez Lasa,VQWSRK0CVW,18989285-7,Gala Pedraza Peñas,14,Scotiabank,335303,USD,24/01/2023
+21953449-8,Jimena Ortuño,BLXE8MPEO7,21524054-6,Gabriela Villanueva Larrea,1,Banco de Chile,2188227,EUR,07/12/2022
+22522124-8,Guillermo Ribes Conesa,2X3MEUCBAE,21564203-3,Apolinar Naranjo Montserrat,51,Banco Itaú,5430528,USD,09/07/2023
+20510161-9,Maristela de Cifuentes,NL3R6A2DXP,21828379-9,Manola Echeverría Menendez,51,Banco Itaú,2709260,EUR,10/11/2022
+22196710-5,Chucho Valdés-Campo,PID88WASWN,10140396-6,Dolores Berenguer Bolaños,39,Banco Estado,7325613,CLP,06/12/2022
+22966088-1,Aurelio Balaguer Mayol,YTHOWX71BP,16522011-2,Miguel Tello Jover,16,Banco Santander,6207645,CLP,21/11/2023
+17200179-9,Buenaventura Vera Cabañas,F1PJ77V0F4,18445369-5,Abraham del Guzmán,49,Banco Falabella,1270211,USD,24/11/2023
+23296523-0,Jose Francisco Tejera,F2GA2NXSMO,17911527-8,Baltasar del Canet,49,Banco Falabella,2934322,CLP,31/10/2022
+17782283-3,Rosario Frutos Peña,3MPNSGEPVT,11639491-8,Andrés Pulido Gargallo,9,Banco Internacional,4668352,EUR,08/04/2024
+16111026-2,Aroa Yuste Jaume,U734VPNGWG,20804723-0,Efraín Vigil-Sánchez,37,Banco Security,7608698,USD,18/08/2022
+24099946-3,Andrés Felipe Diego Fernandez Alcaraz,XUXXOKYT2V,18017295-6,José Luis Amador Vila,14,Scotiabank,2761514,EUR,27/11/2023
+16896507-8,Clementina Vicente Rubio,OA7TTF9YMR,13858975-4,Jordi Luján Beltrán,37,Banco Security,3509512,CLP,17/05/2024
+24757377-5,Antonia Perales Torrijos,ONQT0XIFF4,19109241-2,Eloy Andrade Pla,14,Scotiabank,526685,EUR,16/06/2023
+16907920-3,Berto Aramburu Peral,TIUZQXU236,10960579-7,Georgina Roldan Salvador,28,Banco BICE,2413459,CLP,13/06/2023
+19870310-4,Tito Eric Villaverde Llorens,JOJNPMCFXC,22993948-7,Ceferino Guardiola Solana,14,Scotiabank,7677643,USD,04/07/2023
+20017345-4,Almudena Duarte,CP42TKV4GL,17543984-9,Remedios Porras Agullo,39,Banco Estado,6661765,CLP,07/01/2023
+11802049-1,Paulino Viña Uriarte,L1Y4AL833I,17744138-5,Che Oliveras-Sierra,28,Banco BICE,5182998,EUR,20/04/2024
+20037674-2,Graciano Manso-Mendizábal,4XZOTS874U,13033507-9,Emigdio Roberto Ferrera Ibáñez,49,Banco Falabella,2184257,CLP,12/08/2022
+22085515-7,Luz Torre Villegas,KVO0IGHBIT,24813668-9,Felipa Aliaga Suarez,9,Banco Internacional,1575867,CLP,11/01/2024
+16059739-3,Macaria Gascón Español,MNOQLQLMIT,21739804-7,Ángela de Lopez,51,Banco Itaú,7955220,EUR,03/03/2024
+19794726-0,Luisina Boix Pardo,M5N2P3ZQWM,22312385-1,Fernando Solsona Garay,9,Banco Internacional,1121685,USD,19/09/2022
+18273094-9,Belen Lasa Gil,KPGQ6TLJN4,23860302-9,Pascuala Eli Mayoral Aller,1,Banco de Chile,3132659,EUR,26/03/2024
+23329233-4,Francisco Javier del Cerdán,4AZCT208BC,19080643-2,Porfirio de Patiño,1,Banco de Chile,9932785,EUR,08/02/2023
+20238323-9,Albert Quirino Acedo Pinilla,G94WP5TYGW,24041962-7,Bienvenida Yuste Guijarro,28,Banco BICE,2665535,EUR,20/03/2024
+23709290-8,Esperanza Lobato,A6W3Q087AW,19820610-2,Serafina Márquez Pou,37,Banco Security,683622,EUR,13/08/2023
+21002648-1,Francisco Jose Codina Casal,87JMDJIUBB,13409256-0,Borja Miró Castro,49,Banco Falabella,1775006,USD,12/06/2023
+13810357-2,Palmira Avilés Díez,VGGUGTIWWS,12042265-2,Alba Borrego Campoy,1,Banco de Chile,9406271,EUR,12/09/2022
+12243078-7,Gertrudis Patiño,3RHK5GBXTL,18907156-3,Marcelino Requena Hurtado,39,Banco Estado,9485935,CLP,03/04/2024
+24644000-5,Carolina Maestre,9V26QJ8NFR,17281484-6,Isidro Hurtado Barba,39,Banco Estado,5620571,CLP,22/06/2023
+11760597-6,Severo Yuste Gabaldón,JE2YJ9I669,11980171-1,Pascual Posada Marín,39,Banco Estado,7930710,USD,15/03/2023
+23505061-0,Édgar Meléndez Ávila,2BS1VZDDCO,13984273-4,Perlita Niño Roma,28,Banco BICE,4416760,CLP,03/04/2024
+23627759-7,Pascual Lerma Acedo,415AERQEUN,23606148-0,Nieves Lago-Giménez,1,Banco de Chile,4031075,CLP,26/04/2024
+17374543-8,Azahara Almagro Cabo,T6II1IFA97,18872844-2,Encarnacion Giménez Tudela,37,Banco Security,851589,USD,16/12/2023
+10005839-4,Angelita Varela Beltrán,LRTLWVLXCW,11681529-4,Florinda Esteve,55,Banco Consorcio,7926489,EUR,15/02/2024
+21350533-9,Fabricio Salamanca Amador,U6T9SLC0V2,14086791-9,Loida Manso Costa,9,Banco Internacional,4996387,USD,10/05/2024
+10071499-9,Lalo Valle Lillo,2NBHWJJIL9,19804523-0,Pablo Tomé Porcel,9,Banco Internacional,3323936,CLP,19/04/2024
+19092133-6,Abel Enríquez Vilanova,D5ZSZWTALL,12926097-0,Bernardita Hoz Cózar,39,Banco Estado,7575450,CLP,20/10/2022
+18077374-5,Nayara Cervantes,VK8AGTI9WK,10549290-7,Bernardita Valdés Tena,14,Scotiabank,7601219,USD,10/03/2024
+21204879-5,Berto Balaguer Royo,I3DP4LYXJ1,12430194-2,Dionisia Llobet Solsona,51,Banco Itaú,2045434,CLP,21/04/2024
+18388923-6,Valeria Gloria Leon Asenjo,JG9NYF77T9,12165878-1,Luciana de Arjona,14,Scotiabank,2314057,USD,20/02/2024
+16080800-0,Ámbar Pellicer Tamayo,Q3RU9GOMZ6,15529347-8,Amparo Zabala Robles,16,Banco Santander,8526269,EUR,10/06/2023
+19423725-3,Hector Moliner Ramos,OET9VGN5PU,17597968-0,Carlito Pazos Pardo,14,Scotiabank,1998485,CLP,07/05/2023
+15122199-0,Joaquina Bustos Sebastián,ZYUQ0Q1BDE,20209184-6,Aníbal Montenegro-Osuna,1,Banco de Chile,9188575,CLP,22/01/2024
+18193398-1,Humberto Valero Teruel Ricart,J4HTQ57R1P,24647142-7,Juan Francisco Planas-Pardo,9,Banco Internacional,5464386,USD,22/03/2023
+11083951-2,Candelario Leonardo Leon Conde,E4896QQEGD,22921570-8,Cleto Moya,16,Banco Santander,2490374,EUR,26/05/2024
+10143280-8,Iker Fernando Antúnez Ferrández,IQ8LLHSO4Q,18101612-1,Elías Ramírez Bernat,1,Banco de Chile,3520896,CLP,19/09/2022
+19487128-9,Cesar Ruiz,4CUDB0YO4N,15671801-0,Anita Ascensión Redondo Vilaplana,9,Banco Internacional,7145159,CLP,04/04/2023
+23398086-9,Noemí Heredia Bauzà,W8XY2A4Q0T,17980518-1,Valentina Álvaro Olmedo,55,Banco Consorcio,1104380,CLP,29/04/2023
+22068259-1,Manuel de Asenjo,ATO22QIP9T,15385353-9,Bernardino Leandro Ortiz Chamorro,28,Banco BICE,7176441,EUR,28/05/2024
+21734354-9,Matías Albero Alvarez,J5ZH4HWAPJ,12767203-1,Isaac Figuerola Dominguez,37,Banco Security,5999631,CLP,30/05/2023
+11259084-0,Jacinta Prats,PHECQB9DDP,23940819-0,Mamen del Nuñez,9,Banco Internacional,956555,CLP,13/05/2024
+19865911-1,Manola Ochoa Arce,YO4IFAYR1R,11859061-2,Sandalio Rozas Montalbán,16,Banco Santander,1010097,EUR,25/01/2023
+21007835-6,Marina del Amor,SOJ2KQBJZE,21824269-4,Pedro del Carreras,9,Banco Internacional,8004908,CLP,02/04/2023
+14339543-3,Luis Miguel Vilanova,64FJEL49BT,19641253-8,Emiliano Company González,49,Banco Falabella,2308868,CLP,29/09/2023
+18536985-9,Pepito Maldonado Mendez,DC760A9BVW,20079948-5,Imelda Báez Jara,37,Banco Security,9923898,CLP,19/06/2022
+24763085-4,Bienvenida Doménech Manzanares,C10YACE8IH,14489644-9,Rosa Luna Alberola,14,Scotiabank,8547228,USD,16/01/2024
+21286783-0,Nicolasa Diez Asensio,HBFKBU8BWO,13956876-0,Águeda Isaura Araujo Carlos,51,Banco Itaú,9048212,EUR,07/07/2022
+21969560-9,Cipriano Domingo Chaves Acosta,AZKFX3HVK5,18468576-7,Florentina Falcón Vizcaíno,9,Banco Internacional,5976797,EUR,05/12/2023
+23065507-2,Juanita Sierra Segarra,2Q907XQRCB,24688201-0,Begoña Roldan Molins,51,Banco Itaú,5477882,USD,05/05/2023
+19760758-6,Regina Gabriela Roman Llobet,YV77KJYORN,10934848-5,Edmundo Cabeza Santamaría,37,Banco Security,2997735,USD,30/05/2024
+10356838-3,Jerónimo Peralta,I1KKZWSZN6,12924158-7,Macarena Hernandez Cerdán,1,Banco de Chile,6764075,EUR,11/02/2023
+16390010-1,Daniel Zorrilla Querol,GXBLNFL3S1,21292817-0,Trinidad Grande Cardona,37,Banco Security,8870033,EUR,17/11/2022
+17397181-5,Rogelio Blazquez Giner,N2LX31BVTW,17515952-3,Anselmo de Olmo,16,Banco Santander,5044150,USD,13/12/2022
+23266958-1,Fausto Godofredo Cáceres Pinilla,EUKV0R761R,22702490-2,Modesta Mirta Español Mateo,49,Banco Falabella,485090,EUR,25/11/2022
+23999793-0,Ildefonso Priego Casals,0DNI7NFQY0,12405524-5,Ruperto Gelabert-Otero,14,Scotiabank,2881459,EUR,09/02/2023
+13452000-1,Ariadna Nadal Mayo,02N29X7WDY,14348977-4,Gilberto Aguado-Zaragoza,28,Banco BICE,1851887,CLP,18/02/2023
+21942641-5,Sara Ramis Fuente,51N91A2TRR,22949221-8,Álvaro Jaén Salcedo,49,Banco Falabella,2533098,EUR,14/07/2023
+23013124-6,Noé del Infante,7NPDAPKQT7,18187722-1,Guiomar Barreda,55,Banco Consorcio,4368131,USD,13/01/2024
+15434180-6,Gracia Araujo-Mayo,SM7KD7FBCZ,20810268-4,Juan Manuel Mayol Cortina,14,Scotiabank,6304357,USD,16/09/2022
+14060219-2,Ricarda Ballesteros,WVZPVEDUOT,11025370-9,Nieves Roig Frías,55,Banco Consorcio,9585520,CLP,29/07/2022
+14647569-1,Noemí Mateos-Ferrández,O4FMC62C4P,10488577-9,Tania Diaz Cabrera,9,Banco Internacional,5961737,CLP,30/04/2023
+10768336-3,Abilio Vega Tejedor,1L40BNFUCR,10784924-4,Visitación del Cid,37,Banco Security,2667171,USD,15/12/2022
+15213733-8,Andrea Cintia Granados Borrego,2PZKLIOYTX,21578297-0,Leocadio Lago Pina,16,Banco Santander,4228512,CLP,11/09/2022
+16094436-4,Claudia Talavera Blanco,9UG71M0H5K,24467470-6,Baldomero Llorens Ávila,37,Banco Security,6863903,CLP,05/04/2023
+17040054-0,Iker Nevado Llorente,65N86IMEOJ,14485524-6,Perla del Sáez,49,Banco Falabella,4601333,CLP,24/03/2023
+16878081-7,Eva Castillo-Baró,66GOUAPSGL,22762868-7,Eli Llorente,37,Banco Security,5839357,EUR,20/07/2022
+15350711-0,Martirio Pascual Alemán,2XNC61PVQU,16757688-2,Luna Anunciación Gordillo Mateu,9,Banco Internacional,2693342,CLP,11/08/2022
+21873158-1,Feliciano Azcona Cuéllar,27TTC6PQ3E,13780958-1,Joan Salinas-Frutos,39,Banco Estado,4063832,EUR,24/04/2024
+11542634-4,Eugenia Niño Elorza,NL997Y2D8E,24367413-8,Casemiro Hernando Coloma Pinto,39,Banco Estado,1264682,USD,14/07/2023
+17919150-4,Renata Contreras Montalbán,AFM0PT9W1K,21436747-0,Nélida Quevedo Baró,39,Banco Estado,4304351,CLP,04/11/2022
+17940170-9,Erasmo Company Escribano,B0USMZM4K6,19346935-0,Martin Mir Alemán,37,Banco Security,1091410,EUR,01/05/2024
+23106528-1,Martín de Nogués,7EPOEDC1Q1,22709128-2,Miguela Villalobos Roselló,28,Banco BICE,8377328,USD,03/11/2023
+12881151-6,Teo Jimenez Diego,D0EV2MSRPU,15598206-8,Úrsula Badía Zorrilla,14,Scotiabank,4832163,USD,28/10/2023
+11616441-9,Aroa Pérez Talavera,3FPR6SMZ45,20311091-0,Graciano Sureda Checa,16,Banco Santander,8969278,CLP,28/12/2023
+17546536-7,Guiomar Fiol,RZQ7CPD4MI,21081724-5,Hipólito de Lozano,1,Banco de Chile,9426192,USD,18/01/2024
+17776819-6,Pelayo Cárdenas-Águila,S6QJJMFXAN,16475806-9,Geraldo Egea Garzón,55,Banco Consorcio,6523938,CLP,05/09/2023
+17437580-0,Adora Casas Tirado,WERC43O4GE,15793564-9,Germán Bermúdez Aguirre,16,Banco Santander,8122585,USD,03/02/2023
+18539828-2,Prudencio Cruz Escolano,44EGIFB4ZH,17910792-2,Gil Natalio Lopez Bartolomé,14,Scotiabank,5334930,EUR,02/02/2024
+19757507-3,Elodia Llano Aranda,UU5R0J3J35,12664525-2,Juan Luis Mora Pardo,39,Banco Estado,582347,CLP,15/04/2023
+21170888-3,Lourdes Pedrosa-Mendoza,75TCLX9ZEH,16616473-6,Lupita Pablo Espejo,14,Scotiabank,2001588,CLP,22/04/2023
+18995078-3,Edmundo Morcillo Saavedra,D0ZABPVM5C,14145707-4,Angelita Zamora Múgica,9,Banco Internacional,3812648,USD,06/03/2024
+20615070-4,Pepito Morillo Huguet,WZR897NLF6,18318177-8,Natalio Pou Zaragoza,9,Banco Internacional,860467,CLP,13/06/2023
+22854625-2,Cristóbal Marti-Girón,UOOHO37GBV,22948217-0,Arsenio Fajardo Tenorio,28,Banco BICE,6963098,USD,28/06/2022
+13623553-4,Priscila Catalá Burgos,WRH2GVW5QA,10163102-3,Samuel Amo Solano,51,Banco Itaú,3003187,USD,03/11/2022
+12327064-0,Amado de Sastre,K6PEO2GB93,13060678-4,Encarnación Riera-Núñez,28,Banco BICE,9753798,CLP,20/10/2023
+10626976-8,Mireia Pla Mateo,JCJLF2UM58,11073853-0,Faustino de Canals,49,Banco Falabella,5945343,CLP,17/06/2022
+19151938-7,Silvestre Torrecilla Lucas,9FCH757VV7,13982415-3,Luis Ángel Barrios-Rodrigo,28,Banco BICE,4665707,EUR,19/04/2023
+10468497-9,Alfonso Rivas,96FXJ3TATY,22704210-7,Yéssica Carranza Querol,14,Scotiabank,1324092,USD,16/09/2023
+15845385-8,Rubén Castellanos Acedo,ZO13CNYTDI,17720157-0,Ágata del Matas,49,Banco Falabella,4361761,CLP,25/09/2023
+13449216-5,Bernardo Albero Reig,GJKL3ZUAFQ,18201009-6,Ovidio Seguí Losada,39,Banco Estado,5256737,USD,10/10/2023
+15334373-3,Rosendo Nazario Barroso Anguita,8G58EA600D,14210849-8,Donato Álvarez Gras,55,Banco Consorcio,1129323,EUR,06/09/2022
+19136220-4,Chita Oliveras Francisco,L23XZE9889,19253226-1,Dionisio Pastor Suarez Daza,1,Banco de Chile,6442605,USD,08/08/2023
+10369258-5,Brunilda Huertas-Boix,5KJDHVW23W,11452466-1,Maricela Barrena,55,Banco Consorcio,9422981,USD,26/03/2023
+10825263-8,Rosalina Ripoll Diaz,YSNAO4L4WQ,10918565-0,Jose Antonio Castells Carvajal,1,Banco de Chile,9475491,EUR,24/03/2023
+23606983-2,Edelmiro Yuste Mata,7UM22703AI,13429410-2,Nieves Caparrós Gras,55,Banco Consorcio,1762544,EUR,29/06/2022
+12787738-2,María Belén Arco Aliaga,EXNWPSJUQE,15408138-1,Eugenio Cabañas Hernandez,49,Banco Falabella,3622677,USD,13/06/2024
+20873310-3,Isidora Bustos Higueras,41EABDQ8QB,15165889-8,Aurora Pol-Baena,1,Banco de Chile,4525771,EUR,03/09/2022
+13686421-7,Ester Becerra,YAJYTBEK4Q,16912432-7,Cruz Vicens Vives,9,Banco Internacional,5870865,EUR,08/03/2024
+22468477-2,Azeneth Rosell,KUM6N9VA3F,19270669-2,Belén Ibáñez Reig,39,Banco Estado,9915311,EUR,29/03/2023
+21560358-3,Eutropio de Ugarte,01QNZHNSHQ,17606760-6,Reyes Hierro Bejarano,39,Banco Estado,7127151,EUR,06/01/2023
+17104980-5,Xiomara Serrano Blanch,NUWO2HI55D,13835602-3,Jose Manuel Sancho Ferrán Almagro,49,Banco Falabella,826797,USD,28/05/2023
+10897183-1,Ruperto del Ángel,F9D9ICEAU4,12326090-2,Osvaldo Toledo Benítez,55,Banco Consorcio,5489036,USD,22/03/2024
+15202576-4,Ildefonso Teo Gimeno Ferreras,QNO0MDQ4EH,12362788-1,Rómulo Ferrández Palomo,37,Banco Security,5335528,CLP,03/05/2023
+13542749-7,Fidela Estela Jiménez Benavent,8ZQVJ17L1H,19363562-8,Leonel Segarra Bou,28,Banco BICE,6574158,EUR,21/02/2024
+24105987-6,Mercedes Cano Chacón,PSLMFRHUWT,22875063-5,Anabel Asenjo Muñoz,49,Banco Falabella,6309230,USD,03/05/2023
+13934761-4,Cirino Castells Ferrándiz,B0QIDZ2I6T,16133338-4,Ildefonso Campillo Tena,28,Banco BICE,7501984,CLP,03/08/2023
+10254736-1,Íngrid Nogués Perelló,NKWB77YIPO,16166837-9,Saturnino Poncio Asensio Bosch,16,Banco Santander,6077868,EUR,22/11/2023
+12800859-2,Martirio Luján Guzmán,BDNBV6YGEC,10777508-2,Che del Uriarte,39,Banco Estado,5805441,EUR,06/09/2023
+14340215-4,Lupe Zorrilla Castell,V4FXAEMUF3,23593632-2,Bautista Borrás Ballesteros,14,Scotiabank,9360737,CLP,25/10/2022
+14360183-5,Tiburcio Sanmartín Mulet,NLMJHARU5V,18477226-5,Baldomero Zurita Galán,1,Banco de Chile,8385992,EUR,30/06/2022
+13231388-0,Víctor Marino Carretero Solsona,8ZFCXAWO11,10333610-5,Amaya Botella Planas,51,Banco Itaú,7885452,CLP,19/10/2022
+18428424-5,Narcisa Ávila Porta,RLACE8GZX5,16588412-2,Narcisa Corral Cerdá,9,Banco Internacional,4874575,EUR,26/02/2023
+22515504-0,Gilberto Roig Barroso,CK1SGYRHMU,15975182-1,Adriana del Sureda,39,Banco Estado,6712475,USD,07/10/2022
+17952294-3,Sergio Óscar Coronado Carrillo,WYZ4T4VD9A,13969930-8,Virgilio Carreras Roca,28,Banco BICE,553257,USD,06/02/2023
+12140748-7,René Fausto Jiménez Santos,HDMRT6I35M,16242117-9,Gala Cabezas,51,Banco Itaú,7382585,EUR,18/01/2023
+20482243-9,Micaela Guadalupe Casal Peñalver,4RJ4Q5FS1E,10268784-4,Baltasar Lucena Gomila,51,Banco Itaú,1643926,EUR,01/09/2022
+15446306-2,Anselmo Abellán Mancebo,EYBNBCB967,11645143-1,Telmo Mate Hervia,55,Banco Consorcio,5435272,CLP,26/03/2023
+24057058-7,Samu del Coello,48WDKW5ZMP,13400492-0,Luisina Coloma-Ripoll,51,Banco Itaú,6409618,EUR,23/11/2022
+14346544-0,Dalila Figueroa-Coello,4UVWXGWE19,11910418-1,Vinicio del Exposito,49,Banco Falabella,5309066,EUR,30/06/2023
+18041867-3,Amado Estévez Céspedes,2LQU4QV3TA,11295343-3,Cirino Esteve Oliver,1,Banco de Chile,7277326,EUR,21/11/2023
+21983093-4,Marcial Casanovas-Bru,Z07TMO18BH,14215330-5,Merche Arregui Fuertes,28,Banco BICE,2900683,CLP,25/08/2022
+14958107-9,Rafael del Olivera,CG74UBCHY1,18424145-2,Ibán de Cortés,39,Banco Estado,5821480,CLP,01/09/2023
+21894340-1,Bruno Javier Alegria Tejada,4R00FAD8AC,21022435-7,Eugenia Menendez,37,Banco Security,6243581,CLP,06/11/2023
+21265568-6,Leandro Borja Gonzalo,3J74X6NLY8,24326184-0,Miguel de Perez,37,Banco Security,5443857,EUR,19/03/2023
+23609179-3,Eduardo Pedrosa Campillo,IQ8AY2RKFA,21880489-3,Eufemia Morales Tejera,14,Scotiabank,8647836,EUR,17/04/2024
+11404291-4,Flora Asensio Bayona,Y71TVZMUV9,23091801-0,Casandra del Ros,49,Banco Falabella,2128899,EUR,15/04/2023
+10671386-6,Clemente Roig,XMA8BUFUW3,22222280-7,Fabián Hernán Sabater Segarra,14,Scotiabank,5277427,CLP,24/10/2023
+20129191-2,Bernabé Monreal Redondo,ZEULSG8R6Q,24574161-7,Patricia Perez Maestre,39,Banco Estado,812835,USD,31/12/2023
+23729674-4,Ileana Pellicer Royo,Y7E0M55L91,18555462-3,Julio César Aguiló Quevedo,37,Banco Security,1640229,CLP,13/07/2022
+17381463-0,Octavio Giralt-Chaves,KZVXZ3PFBE,15373169-7,Wilfredo Prieto,51,Banco Itaú,1619556,EUR,08/02/2024
+19771504-5,Espiridión Cabezas,RFV2OH4VFD,10265611-4,Sancho Jara Badía,9,Banco Internacional,3901449,USD,30/01/2024
+13896643-9,Lola Pascual Mesa,YKAGAWZA42,11013005-2,Victoriano del Báez,39,Banco Estado,2464290,USD,15/08/2022
+24905651-1,Leonor Saez Zorrilla,8YJCTQ6YLV,11460514-9,Áurea Palau Folch,55,Banco Consorcio,3663899,CLP,03/12/2023
+24807870-1,Artemio Garcés Marín,ZNZODN298V,14397903-6,Carmina Pol Pellicer,9,Banco Internacional,7526718,EUR,26/06/2022
+17640271-5,Aristides Farré,HWZ8LG55ZL,14707256-4,Roxana Baquero Cano,55,Banco Consorcio,6965635,USD,13/05/2024
+22221718-3,Armando Lozano Pujol,ZT2747YMYV,19724581-4,Pío Gervasio Verdugo Bertrán,55,Banco Consorcio,877237,USD,20/06/2022
+19623032-9,Felipa Adadia-Lluch,UACWZGV49Q,12698953-7,Gilberto Giralt,9,Banco Internacional,5378609,CLP,13/04/2024
+16155812-7,Joel Garrido Molina,3SP6ZUHERJ,10338927-0,Lalo Aragón,55,Banco Consorcio,1654505,CLP,17/07/2022
+18383892-8,Ágata Antúnez,TP10IVZANG,19351760-5,Ruth de Escalona,49,Banco Falabella,1083625,CLP,03/04/2023
+15876515-5,Vito Carro,Z2BYGVVD90,11442172-4,Herminia Lara Frutos,55,Banco Consorcio,8121225,EUR,02/12/2022
+21587525-1,Elisabet Ágata Baena Escalona,1QLG8EJ3NT,14600914-0,Morena Ibarra-Garriga,28,Banco BICE,3298157,EUR,28/12/2023
+10203487-7,Arcelia del Gálvez,ZIS99CVCTQ,16583474-0,Eloy Sotelo,55,Banco Consorcio,3857539,CLP,26/06/2023
+13403079-0,Fulgencio Castañeda Vega,M94MFHHITV,23860441-3,Odalis Salinas Lopez,14,Scotiabank,5080909,USD,12/12/2022
+15518005-5,Vasco Bilbao Isern,7FVMZSGT7P,17478954-4,Rosario Céspedes,14,Scotiabank,3210273,EUR,03/02/2024
+14802948-6,Celia del Camino,JXV2RZDHY9,16054392-0,Chucho Ramirez,39,Banco Estado,8032165,EUR,13/05/2024
+10172315-6,Evita Cuesta Agudo,T1ROWZ1U2S,11964039-3,Amaro del Villalonga,16,Banco Santander,4123053,USD,17/10/2022
+24964691-3,Zoraida Landa Milla,PUKNI8KCX3,23780852-6,Eusebia Guillén Flor,39,Banco Estado,8852548,CLP,29/06/2023
+10497318-2,Zaida Diaz Barreda,UKRQSREMU5,19728669-6,Cecilia Pedro Manzanares,51,Banco Itaú,8546609,USD,20/03/2024
+20045289-7,Lupe Varela Samper,XYGA5HVM4F,22091104-1,Rosalía Caro,51,Banco Itaú,5590188,USD,03/04/2023
+16518593-6,Melchor Prado,OOFAOHDE70,11553009-1,Francisco Jose Carrillo Arellano,1,Banco de Chile,9365536,EUR,27/09/2022
+23551417-6,Primitiva Torrents,V179YXMC8F,24410816-6,Alma Piquer Gelabert,1,Banco de Chile,644177,USD,01/01/2023
+18640078-6,Gabriela Sandra Fabregat Báez,6F3DDL1CZX,15223942-0,Marcia Sureda Vara,39,Banco Estado,3840835,CLP,29/03/2024
+19335107-2,Claudio Porras,GY0OA1IXN0,22396913-7,Isaura Ojeda Mínguez,14,Scotiabank,5019180,CLP,06/08/2023
+13449402-9,Abilio Barceló Morán,U3ZC0WNYD5,11221870-6,Casandra Egea Gaya,49,Banco Falabella,1956162,EUR,12/10/2022
+21237387-3,Armida López Ojeda,M112J8U89O,22851431-7,Paloma de Caro,1,Banco de Chile,1410871,EUR,25/06/2023
+13419356-1,Clarisa Gallo Galvez,R7392Q651N,21876257-8,Aitor Gibert Avilés,51,Banco Itaú,2221460,CLP,10/03/2023
+16261501-8,Francisco Jose Borja Arranz,BY5EED7KQS,16802035-1,Baudelio Aguilar Bonet,14,Scotiabank,3620550,USD,24/10/2023
+20876483-4,Mauricio Bastida Roura,MHBU7ABH3C,13898068-6,Abril Salcedo-Ramos,9,Banco Internacional,9115379,EUR,20/10/2022
+15140622-9,Isabel Alcántara Montoya,1SE37ZO71D,12159147-4,Jenny Castejón-Sans,14,Scotiabank,8172383,USD,01/06/2024
+10163367-1,Luis Ángel Miró,47CPJLO5E3,21506360-7,Leandra Anaya Muro,51,Banco Itaú,8151716,CLP,27/08/2022
+13904401-8,Perlita Aragonés Calleja,G971JC7QVQ,24019840-7,Apolonia del Valencia,14,Scotiabank,392043,CLP,18/07/2022
+13827881-5,Eduardo Díaz-Tomé,2N5ER9K6AA,13545751-3,Gerardo Cantero Arcos,16,Banco Santander,6652441,EUR,26/10/2023
+24295662-4,Arsenio Esparza Pina,EKNUS42LSA,21144778-4,Rosalva Niño Torre,39,Banco Estado,2754530,CLP,21/04/2023
+24847321-5,Cleto Salinas,UBU0CCVWDE,10365181-8,Ligia Serra-Abellán,49,Banco Falabella,1717727,EUR,12/10/2022
+19673475-4,Agustín Piñol Feijoo,CW77K50QLJ,12561362-8,Maximiano Blázquez Sierra,49,Banco Falabella,7535619,CLP,13/01/2023
+15342968-9,Gervasio Casanova Soler,GU06TBOYS5,23369680-4,Rosenda Gallo-Castellanos,16,Banco Santander,6024211,CLP,25/01/2023
+24740086-2,Anselmo Gonzalo Naranjo,OQZ1XHAID8,24039359-4,Jacinto de Alberto,49,Banco Falabella,5501855,EUR,14/09/2023
+22334430-2,Amada Pulido Higueras,ZUFZWBNS54,10375298-7,Marcos Bernal Palau,51,Banco Itaú,4317573,EUR,22/09/2022
+19396497-4,Victor Gascón Ruiz,1EFA1WFGDV,22979194-1,Macarena Torrents Medina,49,Banco Falabella,948041,EUR,01/11/2022
+16116049-8,Gilberto Guerrero-Salgado,YE94E5P0BM,24511500-2,Silvio Badía Tur,37,Banco Security,884250,EUR,20/01/2024
+18474911-7,Remigio Ledesma Castrillo,67F878AT09,19881974-0,Paz Iniesta Conesa,28,Banco BICE,2037200,USD,09/11/2023
+21148641-2,Nicolasa Badía Ropero,S31O9HRHJZ,10394238-1,Rubén Camps Arnau,39,Banco Estado,5908521,CLP,30/10/2023
+19573570-7,Maxi Hernandez Mata,90YQWFTG7B,22883851-3,Aureliano Valdés Perera,39,Banco Estado,6133317,EUR,28/05/2024
+16045974-7,Francisca Medina Pizarro,KPUUNG3H7E,12733437-6,Aníbal Mas Ballesteros,55,Banco Consorcio,3311228,USD,08/02/2024
+17271324-0,Griselda Soria-Portillo,H4VB4XS0YG,19965857-9,Camila Batalla-Beltrán,55,Banco Consorcio,1751955,USD,10/03/2024
+10110338-2,Clementina Delfina Sanchez Oliva,WZAUZHLLP2,16038845-1,Juan Antonio Cerdá Asenjo,14,Scotiabank,334327,CLP,21/09/2022
+10657349-6,Maxi Morán Vélez,R21HAX84T9,19774532-3,Pastor Aurelio Mata Roselló,55,Banco Consorcio,2626859,USD,22/09/2023
+17037589-0,Olimpia Millán Arribas,BC799WWNOS,11243708-3,Antonio Pujol Blanch,51,Banco Itaú,3413737,USD,26/12/2022
+16871278-7,Dolores María Del Carmen Godoy Tamayo,J5DL956SFU,10284855-2,Mohamed Salgado Alcalá,51,Banco Itaú,9025769,USD,09/01/2024
+24115954-4,Francisco Javier Saura Ramírez,X5DDQGXN0F,24197458-6,Ana Sofía Haydée Alvarez Calvo,49,Banco Falabella,1057277,CLP,01/02/2023
+24229294-8,Teófila Batlle Viñas,5QJBA0FWKB,24401800-3,Nando Torrent Castilla,14,Scotiabank,3220939,CLP,09/01/2023
+17154283-6,Eva María Herranz Chaparro,VYTCRXCIYG,14389833-9,Pastor Benet Miguel,14,Scotiabank,5016194,EUR,12/06/2023
+19255450-2,Violeta Costa Carretero,BU29GZNT3Q,24094984-8,Itziar Hurtado-Camps,16,Banco Santander,4941209,CLP,09/06/2023
+15774820-9,Encarnación Company,ONTDFXP16C,12565143-5,Jimena Beltran Mendizábal,28,Banco BICE,3638424,USD,15/06/2023
+23014841-4,Conrado Marcelo Ramirez Barba,WUC59FCEPO,12959376-2,Teodora Fuente Pagès,37,Banco Security,4334784,EUR,23/12/2022
+15345704-0,Fernando del Flor,LZBE9PSG0R,20497081-1,Marianela Rosa Vall,39,Banco Estado,6176560,EUR,02/03/2024
+12706194-1,Sofía Lledó Carlos,QAFSDHZ6F3,12172010-3,Aureliano Escrivá Maestre,37,Banco Security,5681656,EUR,07/03/2023
+22259447-6,Luís Orozco Plana,T881JHDR5V,24893506-0,María Luisa Río Nadal,16,Banco Santander,9011063,CLP,29/08/2023
+14363960-8,Tomás Quirós Blasco,XZKSNG5VAV,21026780-1,Teresita Sainz Pi,14,Scotiabank,9255071,USD,24/06/2022
+12709826-5,Claudia Martí-Ávila,DVWBVWW7GD,16700435-8,Belén Alcántara Carreras,49,Banco Falabella,6202903,CLP,18/01/2024
+13193127-3,Jordán Demetrio Vega Palacio,U3B4D5HG4B,14438852-5,Candelas Bustos-Sebastián,16,Banco Santander,9379882,CLP,21/01/2024
+13053280-1,Venceslás Lucio Collado Gordillo,QGH2QAIA1D,10417405-4,Margarita Gil,49,Banco Falabella,3996440,CLP,08/11/2022
+12147492-0,Ángel Bautista Gil,IJFVC5UA9M,16692508-8,Borja Río,49,Banco Falabella,4776423,USD,17/07/2022
+16044642-7,Cruz Aurelio Jerez Briones,22NDWKD03R,14622029-7,Catalina Carrión Aguado,39,Banco Estado,4615042,CLP,02/01/2024
+16367637-3,Eutimio Villalobos Jimenez,AQU5V49L0V,22191854-8,Fausto Galiano,16,Banco Santander,6516290,USD,06/11/2022
+15735542-3,Cebrián Arroyo Garrido,VPBLQF05AF,12806434-9,Tania Antón Calleja,1,Banco de Chile,9902403,EUR,04/09/2023
+10331364-7,Emilio del Cadenas,KVSG38GHAO,13650650-1,Sebastian Gisbert-Puerta,16,Banco Santander,9481869,CLP,25/01/2023
+15273630-5,Octavia Virginia Balaguer Zapata,LYVPZ18Q9L,15835961-9,Lina Ávila Aranda,51,Banco Itaú,7261159,CLP,30/08/2022
+11605569-1,Margarita Zaragoza Rincón,LVXAVJ6IOV,23243169-2,Rubén de Benito,55,Banco Consorcio,2068225,CLP,04/03/2023
+12328768-5,Ricardo del Morcillo,U6JWMQDDOJ,16877807-3,Prudencia Tur Palacio,37,Banco Security,8800894,CLP,08/02/2024
+15343665-6,Herminia Caparrós Checa,1O8RMEP7IW,22452206-7,Ale Giner Márquez,55,Banco Consorcio,2990495,CLP,08/12/2023
+23537487-7,Bonifacio Fabra-Parra,4L3UQ78EJ7,21113881-1,María Jesús Boix-Pedro,55,Banco Consorcio,8168975,USD,03/12/2022
+24300880-2,Clarisa Bonilla Parra,URMIASBQ1O,12200238-1,Marcial Vargas Llanos,1,Banco de Chile,8427905,CLP,20/11/2022
+17008166-3,Ariel Seguí,E69O1KCSKF,16051523-2,Macarena Vargas Cuevas,16,Banco Santander,4613469,EUR,07/02/2023
+18866952-4,Tiburcio Priego Maldonado,G6LKE7WDNS,12467139-3,Jerónimo Pizarro Calderón,28,Banco BICE,8798129,USD,04/09/2023
+10570542-7,Heriberto Heraclio Clavero Villaverde,XBKQ9PWQYB,22264015-9,Macaria Hidalgo Padilla,49,Banco Falabella,6095717,EUR,13/10/2022
+22960550-3,Rosalía Remedios Cepeda Valls,Z8W1V7IQEL,15468019-2,Julie Cuadrado Rebollo,28,Banco BICE,7937890,CLP,06/03/2024
+14401158-8,María Carmen Bustamante Palma,TGQGD9HS6P,21239871-6,Ascensión Castañeda Escrivá,51,Banco Itaú,90962,USD,24/02/2024
+17042627-3,Lola Checa Pallarès,FYDSQ7O1NG,24761775-0,María Ochoa Juárez,39,Banco Estado,411385,CLP,23/05/2023
+20231401-3,Gloria Barón Roca,03KKTLS7M3,10907826-8,Sancho Lluch Blazquez,16,Banco Santander,2953328,USD,14/08/2023
+12055985-6,Luciana de Murcia,A630F7N2R1,10777111-3,Ascensión del Morata,51,Banco Itaú,9672390,EUR,01/12/2022
+22727184-6,Elisa Talavera Fernandez,LNHO2L1NIR,18328832-4,Vicenta Malo Saura,1,Banco de Chile,764093,USD,03/08/2022
+22557218-7,Macaria del Naranjo,HPGS0MP2A1,20240161-5,Anselmo Pino Bartolomé,16,Banco Santander,1008874,CLP,12/08/2022
+11621754-8,Ambrosio Franch,6I1Z1I20LE,16948697-6,Sol Peñalver Dominguez,51,Banco Itaú,1422157,EUR,14/09/2023
+24824150-6,Asdrubal Guiomar Tena Lladó,1AV9ZS6V33,17115776-7,Omar Mata Agustín,37,Banco Security,8302052,USD,22/10/2023
+14311967-8,Josefina Amores Lerma,5MKN5CZO3W,13057483-9,Coral Río Guitart,55,Banco Consorcio,4831492,EUR,20/12/2023
+12731689-8,Sosimo Mosquera,NBF1ZI5MZX,20003222-0,Martín Olivares Tamarit,1,Banco de Chile,3561898,USD,29/04/2023
+20943592-4,Ambrosio Cobos,TJBVYCKVOZ,22803586-2,Crescencia Ropero Villalba,28,Banco BICE,8937338,USD,06/03/2024
+19065816-0,Gabriela Roberta Bejarano Pascual,5CCL9OJYWD,21902732-5,Luisina Carbó,55,Banco Consorcio,1306306,CLP,03/11/2022
+20725024-4,Pelayo Bas Almazán,C9KCC9F7ZB,12034808-2,Chus Amaya Borja,39,Banco Estado,5228449,EUR,26/03/2024
+18600429-7,Florencio Juárez Tomás,IJTE1GVPZL,12942890-6,Ruben Ruano Amo,51,Banco Itaú,1716842,USD,25/05/2023
+20772237-4,Anselma Oliva Jordá,UEJHK9YEJH,16337103-6,Edgardo Ayuso Díez,49,Banco Falabella,5922804,USD,29/07/2022
+12368567-7,Azahara de Gordillo,7Y9CFPN6HE,12408197-3,Jacinto Montesinos,51,Banco Itaú,9852391,USD,29/12/2022
+22090411-4,Juan Carballo Barral,QHH1NX52C2,17260409-0,Melania Milla,51,Banco Itaú,7241334,EUR,10/09/2022
+21917901-6,Gaspar Vazquez Blazquez,TKMVWM6XW6,14567210-5,José Mari Saura Llorens,9,Banco Internacional,9049978,EUR,27/02/2024
+11485644-6,Edu Arana Diego,AZN90I4P9I,17027010-6,Nicolasa Guiomar Luque Berenguer,39,Banco Estado,5442884,EUR,30/10/2023
+12083856-8,Plinio Valcárcel Borja,UJKWPJW41I,17530165-4,Santos Miralles Español,49,Banco Falabella,672359,USD,18/07/2022
+11478322-4,Chema Garmendia,4U55W9Z76O,18997785-8,Teresita Lastra,39,Banco Estado,88045,CLP,29/05/2024
+17273859-5,Rosario Lluch Hidalgo,GZ5A59NTUA,18548523-4,Víctor Valdés Reina,9,Banco Internacional,566431,EUR,05/08/2022
+21541528-8,Fidel Gomez-Angulo,V9ONFG74F6,19596820-0,Apolinar Jose Antonio Parra Pulido,55,Banco Consorcio,8348884,CLP,11/10/2022
+13500542-7,Samanta Galvez-Ríos,FL8XM59WNC,11340751-1,Leyre Larrañaga Losa,16,Banco Santander,8878785,CLP,04/11/2023
+10262737-8,Galo Carrera,0VPHWE29PD,13157869-7,Eutimio Aragonés Páez,1,Banco de Chile,6269581,CLP,22/09/2022
+22234299-3,Jesús Roca-Domingo,9I7CXOS80C,20763581-0,María Quiroga Alfonso,39,Banco Estado,8077125,EUR,15/06/2022
+16614839-8,María Del Carmen Débora Carrión Yáñez,TUGA9Z42ZF,12715650-6,Sergio Cardona Campillo,1,Banco de Chile,8253114,EUR,27/07/2023
+20518266-9,Octavio Marco Duarte,7ZOM08N6OB,21284986-4,José María Cuenca Belda,9,Banco Internacional,314971,USD,24/03/2024
+17283191-6,Manu de Goñi,F43VRU44DR,12441444-8,Godofredo Montero Porta,16,Banco Santander,9135541,EUR,04/05/2023
+16837945-7,Amancio Grande Girona,0RI0JHCZ4B,18924462-5,Gustavo Fabra Tomas,49,Banco Falabella,2930663,EUR,11/11/2023
+11107119-5,Jaime Ayala,1HG6N1VUZK,16281389-6,Cebrián Isaías Jáuregui Cuenca,1,Banco de Chile,3356387,USD,24/03/2023
+20068926-4,Juanita García-Valcárcel,GI7ZKBDLMR,11922807-9,Paulino Gallo Castejón,9,Banco Internacional,1059113,EUR,25/06/2022
+20965683-1,José Ángel Javi Seco Vives,Z348NAA6EC,21075671-0,Abel Cadenas Niño,49,Banco Falabella,6179423,EUR,23/11/2023

@@ -1,0 +1,501 @@
+RutClienteRecibe,NombreClienteRecibe,NombreBancoReceptor,MontoTotalTransferencias,MonedaTransferencia
+10122415-4,Vasco Benito,Banco Falabella,5514300.00,CLP
+10140396-6,Dolores Berenguer Bolaños,Banco Estado,7325613.00,CLP
+10163102-3,Samuel Amo Solano,Banco Itaú,3003187.00,USD
+10265611-4,Sancho Jara Badía,Banco Internacional,3901449.00,USD
+10268784-4,Baltasar Lucena Gomila,Banco Itaú,1643926.00,EUR
+10284855-2,Mohamed Salgado Alcalá,Banco Itaú,9025769.00,USD
+10326251-5,Daniel del Alsina,Banco BICE,2201794.00,CLP
+10333610-5,Amaya Botella Planas,Banco Itaú,7885452.00,CLP
+10338927-0,Lalo Aragón,Banco Consorcio,1654505.00,CLP
+10365181-8,Ligia Serra-Abellán,Banco Falabella,1717727.00,EUR
+10375298-7,Marcos Bernal Palau,Banco Itaú,4317573.00,EUR
+10385357-5,Ágata Vélez Bermúdez,Banco Security,4816202.00,CLP
+10394238-1,Rubén Camps Arnau,Banco Estado,5908521.00,CLP
+10417405-4,Margarita Gil,Banco Falabella,3996440.00,CLP
+10418441-7,Alondra Cózar,Banco de Chile,4694790.00,EUR
+10439993-0,Domingo Bayón-Martinez,Banco Security,9209932.00,CLP
+10455949-5,Diego Hernando Crespi,Banco Falabella,1163657.00,USD
+10488577-9,Tania Diaz Cabrera,Banco Internacional,5961737.00,CLP
+10497581-0,Celso Abel Salvà Pozuelo,Banco Consorcio,6167985.00,CLP
+10510838-4,Mercedes Dominguez Cabeza,Banco Estado,6034569.00,EUR
+10549290-7,Bernardita Valdés Tena,Scotiabank,7601219.00,USD
+10603413-7,Francisco Jose Paredes,Banco Internacional,9273254.00,CLP
+10666880-0,Noé Bejarano Gárate,Banco Consorcio,4715058.00,EUR
+10666994-8,Leocadio de Quintero,Banco Santander,413980.00,EUR
+10678908-5,María Belén Querol-Luz,Banco Itaú,5874899.00,EUR
+10771899-5,Patricio Jiménez Puig,Scotiabank,4232562.00,EUR
+10777111-3,Ascensión del Morata,Banco Itaú,9672390.00,EUR
+10777508-2,Che del Uriarte,Banco Estado,5805441.00,EUR
+10784924-4,Visitación del Cid,Banco Security,2667171.00,USD
+10817794-5,Darío Vazquez,Banco Estado,2868959.00,EUR
+10907826-8,Sancho Lluch Blazquez,Banco Santander,2953328.00,USD
+10918565-0,Jose Antonio Castells Carvajal,Banco de Chile,9475491.00,EUR
+10932124-9,Joel Goñi Corbacho,Banco BICE,4979523.00,CLP
+10934848-5,Edmundo Cabeza Santamaría,Banco Security,2997735.00,USD
+10960579-7,Georgina Roldan Salvador,Banco BICE,2413459.00,CLP
+10977843-8,Clemente del Miró,Banco de Chile,3771552.00,USD
+11013005-2,Victoriano del Báez,Banco Estado,2464290.00,USD
+11022403-8,Amado Morán Cerezo,Banco Itaú,8236910.00,USD
+11025370-9,Nieves Roig Frías,Banco Consorcio,9585520.00,CLP
+11060891-9,Nadia Bello,Banco Security,5144870.00,EUR
+11061801-0,Hernando Novoa Tomas,Banco de Chile,9405123.00,CLP
+11073853-0,Faustino de Canals,Banco Falabella,5945343.00,CLP
+11094750-4,Roldán Raya Sierra,Banco Estado,6452351.00,EUR
+11221870-6,Casandra Egea Gaya,Banco Falabella,1956162.00,EUR
+11243708-3,Antonio Pujol Blanch,Banco Itaú,3413737.00,USD
+11244268-0,Simón Cabañas Artigas,Banco Estado,9053053.00,USD
+11272461-3,Juan Manuel Alegria Manso,Banco de Chile,7078265.00,EUR
+11288646-6,Ariel Bayona Azorin,Banco BICE,6145383.00,USD
+11295343-3,Cirino Esteve Oliver,Banco de Chile,7277326.00,EUR
+11306351-2,Alba Suárez-Pérez,Scotiabank,8583006.00,EUR
+11340751-1,Leyre Larrañaga Losa,Banco Santander,8878785.00,CLP
+11412771-0,Chema Jerónimo Chico Taboada,Banco Security,50021.00,EUR
+11422683-8,Jordi Tudela,Banco Consorcio,6303090.00,EUR
+11442172-4,Herminia Lara Frutos,Banco Consorcio,8121225.00,EUR
+11452466-1,Maricela Barrena,Banco Consorcio,9422981.00,USD
+11460514-9,Áurea Palau Folch,Banco Consorcio,3663899.00,CLP
+11553009-1,Francisco Jose Carrillo Arellano,Banco de Chile,9365536.00,EUR
+11594136-2,Luisa de Álvarez,Banco Santander,231648.00,CLP
+11639491-8,Andrés Pulido Gargallo,Banco Internacional,4668352.00,EUR
+11645143-1,Telmo Mate Hervia,Banco Consorcio,5435272.00,CLP
+11681529-4,Florinda Esteve,Banco Consorcio,7926489.00,EUR
+11690777-1,Encarnación Bolaños Doménech,Banco de Chile,5639863.00,USD
+11729845-2,Verónica Macarena Vara Vives,Banco Santander,8177170.00,EUR
+11752334-7,Eva María Encarnita Gomila Escamilla,Banco Estado,9658790.00,CLP
+11859061-2,Sandalio Rozas Montalbán,Banco Santander,1010097.00,EUR
+11910418-1,Vinicio del Exposito,Banco Falabella,5309066.00,EUR
+11922807-9,Paulino Gallo Castejón,Banco Internacional,1059113.00,EUR
+11926515-6,Jacinto Tudela-Ribera,Banco Itaú,6871936.00,USD
+11936281-2,Remedios Trini Infante Ariza,Banco Internacional,5725943.00,CLP
+11963590-0,Javier Basilio Gárate Correa,Banco Falabella,1503877.00,CLP
+11964039-3,Amaro del Villalonga,Banco Santander,4123053.00,USD
+11980171-1,Pascual Posada Marín,Banco Estado,7930710.00,USD
+12034808-2,Chus Amaya Borja,Banco Estado,5228449.00,EUR
+12042265-2,Alba Borrego Campoy,Banco de Chile,9406271.00,EUR
+12048268-3,Octavia Mayo Huguet,Banco Consorcio,6829102.00,USD
+12075088-1,Segismundo Ríos Antúnez,Banco Consorcio,4894373.00,EUR
+12088159-6,Dionisio Zapata Romero,Banco Internacional,5747602.00,CLP
+12130885-3,Calixto Barberá,Banco Itaú,1554815.00,USD
+12131970-9,Sergio Cornejo Pedraza,Banco Estado,8691677.00,USD
+12135111-7,Nélida Porcel-Gabaldón,Scotiabank,5823951.00,EUR
+12159147-4,Jenny Castejón-Sans,Scotiabank,8172383.00,USD
+12165878-1,Luciana de Arjona,Scotiabank,2314057.00,USD
+12172010-3,Aureliano Escrivá Maestre,Banco Security,5681656.00,EUR
+12178821-5,Vanesa Paniagua Huertas,Scotiabank,7632665.00,EUR
+12200238-1,Marcial Vargas Llanos,Banco de Chile,8427905.00,CLP
+12282002-7,Hugo Valenzuela Lucena,Banco Security,9099769.00,EUR
+12287899-2,Adoración Solano Muñoz,Banco de Chile,6981133.00,USD
+12302557-1,Vinicio Desiderio Anglada Esparza,Banco Internacional,2102769.00,CLP
+12326090-2,Osvaldo Toledo Benítez,Banco Consorcio,5489036.00,USD
+12362788-1,Rómulo Ferrández Palomo,Banco Security,5335528.00,CLP
+12405524-5,Ruperto Gelabert-Otero,Scotiabank,2881459.00,EUR
+12408197-3,Jacinto Montesinos,Banco Itaú,9852391.00,USD
+12417615-1,Saturnino Belda,Banco Santander,7340741.00,EUR
+12430194-2,Dionisia Llobet Solsona,Banco Itaú,2045434.00,CLP
+12441444-8,Godofredo Montero Porta,Banco Santander,9135541.00,EUR
+12467023-7,Berta Amaya Castejón,Banco de Chile,1803307.00,USD
+12467139-3,Jerónimo Pizarro Calderón,Banco BICE,8798129.00,USD
+12511726-7,Galo de Delgado,Banco Itaú,6617328.00,USD
+12561362-8,Maximiano Blázquez Sierra,Banco Falabella,7535619.00,CLP
+12565143-5,Jimena Beltran Mendizábal,Banco BICE,3638424.00,USD
+12575059-5,Guillermo Cisneros González,Banco Santander,5906706.00,CLP
+12582508-7,Noé Vila Pineda,Banco BICE,6129436.00,EUR
+12664525-2,Juan Luis Mora Pardo,Banco Estado,582347.00,CLP
+12676204-8,Maite Morata Mariño,Banco de Chile,3274549.00,EUR
+12678262-3,Corona Belmonte,Banco Santander,9637171.00,USD
+12698953-7,Gilberto Giralt,Banco Internacional,5378609.00,CLP
+12715650-6,Sergio Cardona Campillo,Banco de Chile,8253114.00,EUR
+12733437-6,Aníbal Mas Ballesteros,Banco Consorcio,3311228.00,USD
+12757462-6,Eufemia Fabregat Pedraza,Scotiabank,5002585.00,EUR
+12758943-5,Vinicio Inocencio Barrio Salinas,Banco Santander,1586669.00,CLP
+12767203-1,Isaac Figuerola Dominguez,Banco Security,5999631.00,CLP
+12791671-4,Samuel Guardia Durán,Banco Internacional,1282338.00,USD
+12806434-9,Tania Antón Calleja,Banco de Chile,9902403.00,EUR
+12861263-5,Juan Bautista del Escribano,Banco Estado,8534954.00,USD
+12915167-7,Marcos Durán Cantero,Banco Consorcio,3794803.00,USD
+12920154-2,María Cristina Cifuentes,Banco Estado,6658329.00,USD
+12924158-7,Macarena Hernandez Cerdán,Banco de Chile,6764075.00,EUR
+12926097-0,Bernardita Hoz Cózar,Banco Estado,7575450.00,CLP
+12942890-6,Ruben Ruano Amo,Banco Itaú,1716842.00,USD
+12959376-2,Teodora Fuente Pagès,Banco Security,4334784.00,EUR
+13011419-0,Maxi de Pacheco,Banco Falabella,5115900.00,EUR
+13033507-9,Emigdio Roberto Ferrera Ibáñez,Banco Falabella,2184257.00,CLP
+13057483-9,Coral Río Guitart,Banco Consorcio,4831492.00,EUR
+13060678-4,Encarnación Riera-Núñez,Banco BICE,9753798.00,CLP
+13063026-1,Francisco Javier Enrique Prada Alsina,Banco Internacional,7967250.00,EUR
+13128256-4,Carolina Barreda Vazquez,Banco Estado,4940423.00,EUR
+13157869-7,Eutimio Aragonés Páez,Banco de Chile,6269581.00,CLP
+13316868-5,Pastor Amat,Banco Santander,7864178.00,USD
+13400492-0,Luisina Coloma-Ripoll,Banco Itaú,6409618.00,EUR
+13409256-0,Borja Miró Castro,Banco Falabella,1775006.00,USD
+13412853-4,Norberto Moraleda Huertas,Banco Estado,5984012.00,USD
+13429410-2,Nieves Caparrós Gras,Banco Consorcio,1762544.00,EUR
+13538256-3,Leocadia Ródenas-Diaz,Banco Internacional,5529303.00,CLP
+13545751-3,Gerardo Cantero Arcos,Banco Santander,6652441.00,EUR
+13640764-5,Matías Juan Antonio Gallart Sánchez,Banco Itaú,1564306.00,EUR
+13650650-1,Sebastian Gisbert-Puerta,Banco Santander,9481869.00,CLP
+13764502-5,Alondra Luna Carrasco Peña,Banco Estado,4945386.00,USD
+13769101-2,Viviana Bayona-Ramírez,Banco Falabella,5813180.00,CLP
+13771141-7,Ana Vazquez Peláez,Banco Falabella,560182.00,USD
+13777411-3,Heraclio Benítez Abella,Banco Santander,1425823.00,CLP
+13780958-1,Joan Salinas-Frutos,Banco Estado,4063832.00,EUR
+13827310-4,Amílcar Viana Bustos,Banco Santander,2841590.00,USD
+13835602-3,Jose Manuel Sancho Ferrán Almagro,Banco Falabella,826797.00,USD
+13842541-3,Onofre Carreño Romero,Banco Itaú,4458830.00,CLP
+13858975-4,Jordi Luján Beltrán,Banco Security,3509512.00,CLP
+13898068-6,Abril Salcedo-Ramos,Banco Internacional,9115379.00,EUR
+13925988-1,Miriam Calzada Gutierrez,Banco Estado,3907920.00,CLP
+13956876-0,Águeda Isaura Araujo Carlos,Banco Itaú,9048212.00,EUR
+13969930-8,Virgilio Carreras Roca,Banco BICE,553257.00,USD
+13982415-3,Luis Ángel Barrios-Rodrigo,Banco BICE,4665707.00,EUR
+13984273-4,Perlita Niño Roma,Banco BICE,4416760.00,CLP
+14059992-4,Yago Lluch Beltran,Banco Security,4534030.00,CLP
+14084780-1,Amado Gisbert Pera,Banco Santander,5918265.00,USD
+14086791-9,Loida Manso Costa,Banco Internacional,4996387.00,USD
+14112253-7,Roldán Cánovas,Banco Consorcio,1991260.00,EUR
+14145707-4,Angelita Zamora Múgica,Banco Internacional,3812648.00,USD
+14206981-0,Anselma Rovira Martínez,Banco de Chile,4797004.00,EUR
+14209717-5,María Carmen Bernal Escudero,Banco Falabella,5911608.00,EUR
+14210849-8,Donato Álvarez Gras,Banco Consorcio,1129323.00,EUR
+14215330-5,Merche Arregui Fuertes,Banco BICE,2900683.00,CLP
+14254787-6,Lorenzo Cornejo-Oliver,Banco Santander,1280293.00,EUR
+14337146-0,Jenny Acedo,Banco Estado,2113088.00,CLP
+14348977-4,Gilberto Aguado-Zaragoza,Banco BICE,1851887.00,CLP
+14348992-4,Artemio de Santiago,Banco Itaú,8105568.00,CLP
+14389833-9,Pastor Benet Miguel,Scotiabank,5016194.00,EUR
+14397903-6,Carmina Pol Pellicer,Banco Internacional,7526718.00,EUR
+14438852-5,Candelas Bustos-Sebastián,Banco Santander,9379882.00,CLP
+14444339-2,Itziar Paniagua,Banco Internacional,84349.00,USD
+14485524-6,Perla del Sáez,Banco Falabella,4601333.00,CLP
+14489644-9,Rosa Luna Alberola,Scotiabank,8547228.00,USD
+14567210-5,José Mari Saura Llorens,Banco Internacional,9049978.00,EUR
+14600914-0,Morena Ibarra-Garriga,Banco BICE,3298157.00,EUR
+14622029-7,Catalina Carrión Aguado,Banco Estado,4615042.00,CLP
+14634438-7,Liliana Miguela Barroso Fuente,Banco Falabella,7692240.00,USD
+14670265-8,Nayara Casanovas Prat,Banco de Chile,793054.00,CLP
+14707256-4,Roxana Baquero Cano,Banco Consorcio,6965635.00,USD
+14758251-5,Gabino Mendizábal Rico,Banco Itaú,5168860.00,USD
+14796870-9,Calista Llopis Morell,Banco Security,6880122.00,EUR
+14925249-4,Rafaela del Alsina,Banco Estado,5400313.00,USD
+14940558-3,Hector Zurita Palomo,Banco Consorcio,3496247.00,CLP
+14963916-0,Andrés Felipe Mariño-Mendez,Banco Security,7166949.00,EUR
+15019991-3,Palmira Jaume Lladó,Banco Falabella,5209070.00,EUR
+15080026-6,Samanta Plana Olmedo,Banco de Chile,2040743.00,USD
+15165889-8,Aurora Pol-Baena,Banco de Chile,4525771.00,EUR
+15200832-9,Marcia Fabra,Banco Santander,1985694.00,CLP
+15223942-0,Marcia Sureda Vara,Banco Estado,3840835.00,CLP
+15241427-9,Anabel Montero Calderón,Banco Itaú,1584849.00,CLP
+15251077-2,Mamen Guerrero Andreu,Banco Internacional,7709780.00,EUR
+15255272-1,Anastasio Baeza Peña,Banco de Chile,8376971.00,CLP
+15347155-2,Silvia Armengol Calvo,Scotiabank,6674401.00,CLP
+15373169-7,Wilfredo Prieto,Banco Itaú,1619556.00,EUR
+15385105-5,Victor Nazaret Catalá Paniagua,Banco Santander,8623456.00,CLP
+15385353-9,Bernardino Leandro Ortiz Chamorro,Banco BICE,7176441.00,EUR
+15394141-1,Valentina Serrano,Banco Santander,1770016.00,CLP
+15408138-1,Eugenio Cabañas Hernandez,Banco Falabella,3622677.00,USD
+15461781-8,Macario Herrera,Scotiabank,342665.00,USD
+15468019-2,Julie Cuadrado Rebollo,Banco BICE,7937890.00,CLP
+15529347-8,Amparo Zabala Robles,Banco Santander,8526269.00,EUR
+15546532-0,Cayetano Molins Buendía,Banco Consorcio,1475269.00,EUR
+15598206-8,Úrsula Badía Zorrilla,Scotiabank,4832163.00,USD
+15623459-5,Maricela Barranco Aguiló,Banco Estado,6347829.00,EUR
+15671801-0,Anita Ascensión Redondo Vilaplana,Banco Internacional,7145159.00,CLP
+15728780-2,María Teresa Pelayo Soler,Scotiabank,7813154.00,EUR
+15744826-1,Evaristo Heredia Gallo,Banco Itaú,7679617.00,CLP
+15793564-9,Germán Bermúdez Aguirre,Banco Santander,8122585.00,USD
+15813542-6,Evelia Carbajo Cabañas,Banco Itaú,3076605.00,CLP
+15835961-9,Lina Ávila Aranda,Banco Itaú,7261159.00,CLP
+15858461-9,César Santiago Goicoechea,Banco de Chile,537090.00,USD
+15866430-7,Darío Cristian Gallego Barón,Banco BICE,710633.00,CLP
+15927251-9,Olivia Aguado Sureda,Banco Itaú,1552996.00,EUR
+15931793-0,Apolonia Trillo-Posada,Banco Internacional,8617215.00,USD
+15973279-4,Jose Angel Oliver-Becerra,Banco Internacional,2307625.00,EUR
+15975182-1,Adriana del Sureda,Banco Estado,6712475.00,USD
+16001473-3,Edelmira Nuria Gaya Gabaldón,Banco Estado,6570066.00,CLP
+16007033-7,Nando Villalobos Iniesta,Banco Estado,340375.00,USD
+16038845-1,Juan Antonio Cerdá Asenjo,Scotiabank,334327.00,CLP
+16051523-2,Macarena Vargas Cuevas,Banco Santander,4613469.00,EUR
+16054392-0,Chucho Ramirez,Banco Estado,8032165.00,EUR
+16105900-6,Rodrigo Riquelme,Banco Falabella,933075.00,CLP
+16133338-4,Ildefonso Campillo Tena,Banco BICE,7501984.00,CLP
+16166837-9,Saturnino Poncio Asensio Bosch,Banco Santander,6077868.00,EUR
+16242117-9,Gala Cabezas,Banco Itaú,7382585.00,EUR
+16281389-6,Cebrián Isaías Jáuregui Cuenca,Banco de Chile,3356387.00,USD
+16282318-0,Macario Cortina-Ordóñez,Banco Consorcio,8592948.00,CLP
+16337103-6,Edgardo Ayuso Díez,Banco Falabella,5922804.00,USD
+16407051-0,Mercedes Sarabia Salvador,Banco Consorcio,6092380.00,USD
+16466222-2,Feliciano Boada-Jara,Banco Estado,3817381.00,USD
+16475806-9,Geraldo Egea Garzón,Banco Consorcio,6523938.00,CLP
+16522011-2,Miguel Tello Jover,Banco Santander,6207645.00,CLP
+16540517-3,Fortunata Alegre Perez,Banco de Chile,7531418.00,CLP
+16583474-0,Eloy Sotelo,Banco Consorcio,3857539.00,CLP
+16588412-2,Narcisa Corral Cerdá,Banco Internacional,4874575.00,EUR
+16600497-1,Jose Carlos Arrieta,Banco de Chile,6453229.00,EUR
+16610575-3,Pelayo de Benet,Banco Estado,3633926.00,EUR
+16616473-6,Lupita Pablo Espejo,Scotiabank,2001588.00,CLP
+16665077-0,Abraham Villalba Ribera,Banco de Chile,1191031.00,EUR
+16672100-2,Benita de Sevilla,Banco Itaú,2076241.00,USD
+16687873-9,Dafne Valle Amores,Banco Santander,1375785.00,USD
+16692508-8,Borja Río,Banco Falabella,4776423.00,USD
+16700435-8,Belén Alcántara Carreras,Banco Falabella,6202903.00,CLP
+16718899-9,Quique Rios Esteve,Scotiabank,7035223.00,USD
+16757688-2,Luna Anunciación Gordillo Mateu,Banco Internacional,2693342.00,CLP
+16802035-1,Baudelio Aguilar Bonet,Scotiabank,3620550.00,USD
+16808446-9,Fernanda Pi Cánovas,Scotiabank,8033694.00,USD
+16811475-3,Buenaventura Díaz Bonilla,Banco BICE,4715901.00,USD
+16841847-6,Josep Rosell Manso,Banco Santander,3743266.00,USD
+16877807-3,Prudencia Tur Palacio,Banco Security,8800894.00,CLP
+16912432-7,Cruz Vicens Vives,Banco Internacional,5870865.00,EUR
+16948697-6,Sol Peñalver Dominguez,Banco Itaú,1422157.00,EUR
+16964569-6,Jenny Huertas-Rico,Scotiabank,6694345.00,CLP
+17025338-3,Tristán Bravo Aguado,Banco de Chile,4612861.00,CLP
+17027010-6,Nicolasa Guiomar Luque Berenguer,Banco Estado,5442884.00,EUR
+17058960-7,Fátima de Llobet,Banco Falabella,8628468.00,EUR
+17115776-7,Omar Mata Agustín,Banco Security,8302052.00,USD
+17129682-4,Rosa María Bárcena Morata,Banco Falabella,8482442.00,CLP
+17260409-0,Melania Milla,Banco Itaú,7241334.00,EUR
+17281484-6,Isidro Hurtado Barba,Banco Estado,5620571.00,CLP
+17466493-7,Rogelio de Jáuregui,Banco Internacional,9523885.00,USD
+17478954-4,Rosario Céspedes,Scotiabank,3210273.00,EUR
+17485538-8,Carlota Rodríguez Alarcón,Banco Itaú,3921806.00,EUR
+17515952-3,Anselmo de Olmo,Banco Santander,5044150.00,USD
+17522276-8,Ruy Benito Rosselló,Banco Security,1695470.00,USD
+17530165-4,Santos Miralles Español,Banco Falabella,672359.00,USD
+17543984-9,Remedios Porras Agullo,Banco Estado,6661765.00,CLP
+17597968-0,Carlito Pazos Pardo,Scotiabank,1998485.00,CLP
+17606760-6,Reyes Hierro Bejarano,Banco Estado,7127151.00,EUR
+17672094-6,Diego Portero-Carballo,Banco Consorcio,6270043.00,CLP
+17696702-7,René Raya,Banco Internacional,3577234.00,CLP
+17720157-0,Ágata del Matas,Banco Falabella,4361761.00,CLP
+17744138-5,Che Oliveras-Sierra,Banco BICE,5182998.00,EUR
+17819961-9,Teodosio Téllez Marin,Banco Internacional,1394653.00,CLP
+17836979-1,Florentina Acero Lasa,Banco Santander,2170206.00,EUR
+17855611-2,María José de Domingo,Banco Internacional,9380730.00,EUR
+17877897-7,Melchor Valderrama,Banco Falabella,9404160.00,EUR
+17909533-0,Fabiola de Arteaga,Banco Consorcio,7989844.00,CLP
+17910792-2,Gil Natalio Lopez Bartolomé,Scotiabank,5334930.00,EUR
+17911527-8,Baltasar del Canet,Banco Falabella,2934322.00,CLP
+17980518-1,Valentina Álvaro Olmedo,Banco Consorcio,1104380.00,CLP
+18003447-1,Pánfilo del Blanco,Banco BICE,5770650.00,CLP
+18017295-6,José Luis Amador Vila,Scotiabank,2761514.00,EUR
+18017337-4,Apolonia Cruz Oliva,Banco Estado,3862147.00,EUR
+18101612-1,Elías Ramírez Bernat,Banco de Chile,3520896.00,CLP
+18112012-1,Alba Casandra Cuesta Valverde,Scotiabank,331399.00,CLP
+18121339-0,María Del Carmen Calatayud Aguilera,Banco Itaú,1604957.00,EUR
+18123758-6,Violeta del Ferreras,Banco BICE,8243862.00,EUR
+18152932-5,Desiderio Lledó Terrón,Banco Itaú,8033674.00,CLP
+18177704-2,Mayte Rodrigo Gómez,Banco BICE,8267215.00,USD
+18182495-3,Amancio Águila Dueñas,Banco de Chile,8346183.00,CLP
+18187722-1,Guiomar Barreda,Banco Consorcio,4368131.00,USD
+18188769-8,Alberto Sales,Scotiabank,5163399.00,USD
+18201009-6,Ovidio Seguí Losada,Banco Estado,5256737.00,USD
+18318177-8,Natalio Pou Zaragoza,Banco Internacional,860467.00,CLP
+18328832-4,Vicenta Malo Saura,Banco de Chile,764093.00,USD
+18424145-2,Ibán de Cortés,Banco Estado,5821480.00,CLP
+18432383-2,Jeremías Narciso Ayuso Hurtado,Scotiabank,6642797.00,EUR
+18445369-5,Abraham del Guzmán,Banco Falabella,1270211.00,USD
+18468576-7,Florentina Falcón Vizcaíno,Banco Internacional,5976797.00,EUR
+18477226-5,Baldomero Zurita Galán,Banco de Chile,8385992.00,EUR
+18536395-8,Luciana Marina Pujadas Otero,Banco Estado,7797849.00,CLP
+18548523-4,Víctor Valdés Reina,Banco Internacional,566431.00,EUR
+18555462-3,Julio César Aguiló Quevedo,Banco Security,1640229.00,CLP
+18626679-7,Juan de Parra,Banco Estado,2288000.00,USD
+18658141-3,Maxi Revilla,Banco de Chile,8860018.00,EUR
+18754324-7,Matías Sotelo-Amigó,Scotiabank,9745838.00,EUR
+18772702-2,Remigio Heriberto Fuente Bernat,Banco de Chile,6696174.00,USD
+18794980-3,Eufemia Aller Enríquez,Banco Security,4725367.00,CLP
+18840001-3,Filomena Cabanillas-Amaya,Banco Estado,2236661.00,USD
+18871143-7,Verónica Rueda-Múñiz,Banco Falabella,33785.00,CLP
+18872844-2,Encarnacion Giménez Tudela,Banco Security,851589.00,USD
+18907156-3,Marcelino Requena Hurtado,Banco Estado,9485935.00,CLP
+18921845-4,Anselmo Sarmiento Pinedo,Banco Internacional,8653052.00,CLP
+18924462-5,Gustavo Fabra Tomas,Banco Falabella,2930663.00,EUR
+18937565-7,Felisa Alsina,Scotiabank,9922493.00,EUR
+18963970-2,Reina del Niño,Banco BICE,3061593.00,EUR
+18978140-7,Andrés Montalbán Cózar,Banco Security,6025509.00,EUR
+18989285-7,Gala Pedraza Peñas,Scotiabank,335303.00,USD
+18997785-8,Teresita Lastra,Banco Estado,88045.00,CLP
+19055885-1,Severino Elías-Paniagua,Banco Estado,936747.00,EUR
+19059604-0,Clarisa Grande Escribano,Banco Estado,4331725.00,CLP
+19080643-2,Porfirio de Patiño,Banco de Chile,9932785.00,EUR
+19109241-2,Eloy Andrade Pla,Scotiabank,526685.00,EUR
+19119300-8,Armida Gual Soriano,Banco Internacional,2243311.00,CLP
+19148030-3,Plinio Costa Bru,Banco Itaú,2575169.00,CLP
+19151791-1,Antonio Paz Ribera,Banco Consorcio,6365352.00,EUR
+19196181-4,Agapito Hierro,Banco Consorcio,7856605.00,CLP
+19250500-1,Javi Fuertes Aguirre,Banco BICE,59206.00,EUR
+19253226-1,Dionisio Pastor Suarez Daza,Banco de Chile,6442605.00,USD
+19270669-2,Belén Ibáñez Reig,Banco Estado,9915311.00,EUR
+19313131-0,Ruth Acosta Monreal,Banco BICE,3372971.00,USD
+19335487-2,Concepción Tudela Tovar,Scotiabank,6619311.00,CLP
+19345459-0,Jonatan Mendoza-Salinas,Banco Itaú,173918.00,CLP
+19346935-0,Martin Mir Alemán,Banco Security,1091410.00,EUR
+19351760-5,Ruth de Escalona,Banco Falabella,1083625.00,CLP
+19363562-8,Leonel Segarra Bou,Banco BICE,6574158.00,EUR
+19438883-8,Isidoro Asensio Arribas,Banco BICE,971819.00,USD
+19529958-8,Oriana Garay Sanmiguel,Banco Falabella,8742700.00,EUR
+19539073-5,Jacobo Villaverde-Nebot,Banco Falabella,9684254.00,EUR
+19565315-0,Jerónimo Aroca,Banco Internacional,49592.00,CLP
+19596820-0,Apolinar Jose Antonio Parra Pulido,Banco Consorcio,8348884.00,CLP
+19641253-8,Emiliano Company González,Banco Falabella,2308868.00,CLP
+19658489-7,Jacinto Solano,Banco Estado,3179147.00,EUR
+19724581-4,Pío Gervasio Verdugo Bertrán,Banco Consorcio,877237.00,USD
+19728669-6,Cecilia Pedro Manzanares,Banco Itaú,8546609.00,USD
+19774532-3,Pastor Aurelio Mata Roselló,Banco Consorcio,2626859.00,USD
+19804523-0,Pablo Tomé Porcel,Banco Internacional,3323936.00,CLP
+19820610-2,Serafina Márquez Pou,Banco Security,683622.00,EUR
+19874558-4,Heraclio Soriano,Banco de Chile,7446596.00,EUR
+19881974-0,Paz Iniesta Conesa,Banco BICE,2037200.00,USD
+19909667-5,Eduardo Palma-Manzanares,Banco Consorcio,4639606.00,USD
+19933800-3,Marianela Ros Padilla,Banco Santander,7352038.00,EUR
+19965857-9,Camila Batalla-Beltrán,Banco Consorcio,1751955.00,USD
+19985154-8,Apolonia Sobrino Bayona,Banco Santander,8514258.00,CLP
+19991357-8,Carlito del Bermúdez,Banco BICE,8536825.00,USD
+20003222-0,Martín Olivares Tamarit,Banco de Chile,3561898.00,USD
+20079948-5,Imelda Báez Jara,Banco Security,9923898.00,CLP
+20185486-6,Ester Moraleda Acedo,Banco Internacional,2030131.00,USD
+20209184-6,Aníbal Montenegro-Osuna,Banco de Chile,9188575.00,CLP
+20240161-5,Anselmo Pino Bartolomé,Banco Santander,1008874.00,CLP
+20310266-4,Josefina de Huertas,Banco Consorcio,9892123.00,CLP
+20311091-0,Graciano Sureda Checa,Banco Santander,8969278.00,CLP
+20421944-7,Xiomara Pareja Lasa,Banco de Chile,9458312.00,EUR
+20441602-4,Amado Andrade Heras,Scotiabank,1866125.00,EUR
+20497081-1,Marianela Rosa Vall,Banco Estado,6176560.00,EUR
+20539013-0,Alexandra Mayo Garcés,Banco Falabella,947595.00,EUR
+20572680-5,Custodia Iriarte,Banco Consorcio,2294049.00,CLP
+20579196-4,Gala León Gomis,Banco Internacional,4610774.00,CLP
+20603754-4,Anastasio Fernandez Benavente,Banco Falabella,2565107.00,USD
+20763581-0,María Quiroga Alfonso,Banco Estado,8077125.00,EUR
+20804723-0,Efraín Vigil-Sánchez,Banco Security,7608698.00,USD
+20810268-4,Juan Manuel Mayol Cortina,Scotiabank,6304357.00,USD
+20909356-9,Carmen Iriarte Campo,Banco Internacional,3407679.00,EUR
+20956048-9,Leonardo Segovia Bastida,Banco Internacional,804510.00,CLP
+20991029-5,Eutimio Paniagua Tena,Banco Security,8591484.00,EUR
+21022435-7,Eugenia Menendez,Banco Security,6243581.00,CLP
+21026780-1,Teresita Sainz Pi,Scotiabank,9255071.00,USD
+21075671-0,Abel Cadenas Niño,Banco Falabella,6179423.00,EUR
+21081724-5,Hipólito de Lozano,Banco de Chile,9426192.00,USD
+21108021-2,Lucas Maestre Pino,Banco Security,4245032.00,CLP
+21113881-1,María Jesús Boix-Pedro,Banco Consorcio,8168975.00,USD
+21122492-7,Anacleto Guillermo Benet Quero,Banco Internacional,6098443.00,EUR
+21144778-4,Rosalva Niño Torre,Banco Estado,2754530.00,CLP
+21149263-3,Noé Gascón Simó,Banco Itaú,3056051.00,EUR
+21234711-6,Marina Obdulia Alcolea Mora,Scotiabank,3116654.00,EUR
+21239871-6,Ascensión Castañeda Escrivá,Banco Itaú,90962.00,USD
+21284986-4,José María Cuenca Belda,Banco Internacional,314971.00,USD
+21292817-0,Trinidad Grande Cardona,Banco Security,8870033.00,EUR
+21386227-1,Sebastián Galiano Egea,Banco Internacional,4112399.00,EUR
+21404984-6,Anastasia Gisbert Huertas,Banco de Chile,6501693.00,USD
+21436747-0,Nélida Quevedo Baró,Banco Estado,4304351.00,CLP
+21468519-4,Blanca Noelia Osuna Domingo,Banco Internacional,9822139.00,USD
+21478032-6,Anna Villalobos Viñas,Banco Santander,6203198.00,CLP
+21506360-7,Leandra Anaya Muro,Banco Itaú,8151716.00,CLP
+21524054-6,Gabriela Villanueva Larrea,Banco de Chile,2188227.00,EUR
+21564203-3,Apolinar Naranjo Montserrat,Banco Itaú,5430528.00,USD
+21578297-0,Leocadio Lago Pina,Banco Santander,4228512.00,CLP
+21587087-0,Malena Ponce Sans,Banco Estado,572848.00,EUR
+21663092-0,Nerea Toledo Sancho,Banco Itaú,6421946.00,USD
+21709038-2,Paco Zaragoza-Aguado,Scotiabank,508775.00,USD
+21739804-7,Ángela de Lopez,Banco Itaú,7955220.00,EUR
+21824269-4,Pedro del Carreras,Banco Internacional,8004908.00,CLP
+21828379-9,Manola Echeverría Menendez,Banco Itaú,2709260.00,EUR
+21876257-8,Aitor Gibert Avilés,Banco Itaú,2221460.00,CLP
+21880489-3,Eufemia Morales Tejera,Scotiabank,8647836.00,EUR
+21902732-5,Luisina Carbó,Banco Consorcio,1306306.00,CLP
+21960922-7,Basilio Esteban Benet,Banco Security,8790028.00,USD
+21972226-1,Leandro Vallejo Sanmartín,Banco Estado,7538395.00,EUR
+22091104-1,Rosalía Caro,Banco Itaú,5590188.00,USD
+22191854-8,Fausto Galiano,Banco Santander,6516290.00,USD
+22222280-7,Fabián Hernán Sabater Segarra,Scotiabank,5277427.00,CLP
+22264015-9,Macaria Hidalgo Padilla,Banco Falabella,6095717.00,EUR
+22312385-1,Fernando Solsona Garay,Banco Internacional,1121685.00,USD
+22396913-7,Isaura Ojeda Mínguez,Scotiabank,5019180.00,CLP
+22451209-7,Mercedes Miró Pizarro,Banco Santander,1063672.00,CLP
+22452206-7,Ale Giner Márquez,Banco Consorcio,2990495.00,CLP
+22486097-0,Jaime de Rivera,Banco Internacional,5165005.00,EUR
+22676775-7,Serafina Domínguez Alberto,Banco Consorcio,470772.00,USD
+22679706-2,Berto Múgica Boix,Banco de Chile,8024085.00,EUR
+22702490-2,Modesta Mirta Español Mateo,Banco Falabella,485090.00,EUR
+22704210-7,Yéssica Carranza Querol,Scotiabank,1324092.00,USD
+22709128-2,Miguela Villalobos Roselló,Banco BICE,8377328.00,USD
+22733471-7,Anselma Guerrero Ballester,Banco Santander,360687.00,USD
+22734888-1,Victor Manuel Castillo Gutiérrez,Banco BICE,3261471.00,CLP
+22762868-7,Eli Llorente,Banco Security,5839357.00,EUR
+22803586-2,Crescencia Ropero Villalba,Banco BICE,8937338.00,USD
+22837305-4,Leonel Machado Ferreras,Scotiabank,7639797.00,EUR
+22851431-7,Paloma de Caro,Banco de Chile,1410871.00,EUR
+22875063-5,Anabel Asenjo Muñoz,Banco Falabella,6309230.00,USD
+22883851-3,Aureliano Valdés Perera,Banco Estado,6133317.00,EUR
+22908491-8,Ricarda Yésica Muro Álvaro,Banco BICE,2722812.00,EUR
+22921570-8,Cleto Moya,Banco Santander,2490374.00,EUR
+22942041-9,Eliseo López Valenzuela,Scotiabank,2163110.00,CLP
+22948217-0,Arsenio Fajardo Tenorio,Banco BICE,6963098.00,USD
+22949221-8,Álvaro Jaén Salcedo,Banco Falabella,2533098.00,EUR
+22979194-1,Macarena Torrents Medina,Banco Falabella,948041.00,EUR
+22993948-7,Ceferino Guardiola Solana,Scotiabank,7677643.00,USD
+23002539-8,Anastasia Marisol Meléndez Juárez,Banco Santander,6033071.00,USD
+23003417-3,Carla Arana-Campos,Banco Santander,4172463.00,EUR
+23061935-4,Laura Carreras Fabra,Banco Falabella,9256074.00,CLP
+23091801-0,Casandra del Ros,Banco Falabella,2128899.00,EUR
+23153600-7,Arturo Cañete Garriga,Banco Itaú,9323077.00,CLP
+23202771-6,Nayara Bilbao Larrea,Banco Falabella,6662383.00,EUR
+23243169-2,Rubén de Benito,Banco Consorcio,2068225.00,CLP
+23270923-9,Dionisio Tiburcio Alonso Lladó,Banco Security,9995046.00,USD
+23318680-9,María Fernanda Castro Alvarez,Banco de Chile,520253.00,USD
+23369680-4,Rosenda Gallo-Castellanos,Banco Santander,6024211.00,CLP
+23446246-2,Maura Verdejo,Banco Internacional,2451451.00,USD
+23548032-8,Zoraida Lloret Gibert,Banco Consorcio,9615945.00,USD
+23573758-9,Gabriela Morillo Abad,Banco de Chile,7607867.00,CLP
+23593632-2,Bautista Borrás Ballesteros,Scotiabank,9360737.00,CLP
+23606148-0,Nieves Lago-Giménez,Banco de Chile,4031075.00,CLP
+23610263-1,Melchor Sandoval-Conde,Banco Itaú,5303166.00,EUR
+23613546-3,Leandra Romero Escrivá,Banco Security,6275192.00,EUR
+23634415-0,Yéssica Ferrera Tomé,Banco Consorcio,2521296.00,EUR
+23641031-8,Berto Rocha Pintor,Banco Itaú,7259245.00,CLP
+23780852-6,Eusebia Guillén Flor,Banco Estado,8852548.00,CLP
+23790633-8,Leire del Núñez,Banco Internacional,7585657.00,EUR
+23860302-9,Pascuala Eli Mayoral Aller,Banco de Chile,3132659.00,EUR
+23860441-3,Odalis Salinas Lopez,Scotiabank,5080909.00,USD
+23862626-9,Borja Jose Francisco Barranco Antúnez,Banco BICE,9067011.00,USD
+23877721-5,Cipriano Soto,Banco Falabella,5165939.00,CLP
+23940819-0,Mamen del Nuñez,Banco Internacional,956555.00,CLP
+23946672-6,Fabricio Arteaga Serra,Banco Santander,9355938.00,USD
+24011451-5,Tamara Talavera-Montoya,Banco Estado,7560617.00,USD
+24019840-7,Apolonia del Valencia,Scotiabank,392043.00,CLP
+24029379-3,Yéssica Palomo Pizarro,Banco BICE,3949742.00,USD
+24039359-4,Jacinto de Alberto,Banco Falabella,5501855.00,EUR
+24041962-7,Bienvenida Yuste Guijarro,Banco BICE,2665535.00,EUR
+24064159-1,Olegario Giralt Jove,Banco Security,7949745.00,USD
+24068177-6,René Martin,Banco Falabella,647357.00,CLP
+24094984-8,Itziar Hurtado-Camps,Banco Santander,4941209.00,CLP
+24108376-6,Damián Guillen Arévalo,Banco Itaú,3569111.00,EUR
+24121433-9,Macarena Posada Morata,Banco Estado,9481787.00,EUR
+24174399-5,Federico Patiño-Chacón,Banco Estado,4332171.00,USD
+24197458-6,Ana Sofía Haydée Alvarez Calvo,Banco Falabella,1057277.00,CLP
+24226032-0,Jeremías Hernando Zorrilla,Banco Security,522746.00,USD
+24233001-6,Bruno del Ferrándiz,Banco Internacional,5651493.00,CLP
+24293020-7,Angelita del Salazar,Banco Estado,333532.00,CLP
+24326184-0,Miguel de Perez,Banco Security,5443857.00,EUR
+24367413-8,Casemiro Hernando Coloma Pinto,Banco Estado,1264682.00,USD
+24386473-7,Mauricio Cervera Vilalta,Banco Security,6136804.00,USD
+24401623-3,Esteban Blanca Royo,Banco Internacional,617534.00,CLP
+24401800-3,Nando Torrent Castilla,Scotiabank,3220939.00,CLP
+24410816-6,Alma Piquer Gelabert,Banco de Chile,644177.00,USD
+24417252-8,Francisca Pol-Ripoll,Banco Consorcio,2229621.00,USD
+24431418-4,Flavia Marti Prado,Banco Itaú,7993731.00,CLP
+24439469-5,Ascensión Aragón Planas,Banco Consorcio,1485215.00,EUR
+24467470-6,Baldomero Llorens Ávila,Banco Security,6863903.00,CLP
+24511500-2,Silvio Badía Tur,Banco Security,884250.00,EUR
+24574161-7,Patricia Perez Maestre,Banco Estado,812835.00,USD
+24596014-6,Angelino Sabater Iglesia,Scotiabank,6743770.00,USD
+24647142-7,Juan Francisco Planas-Pardo,Banco Internacional,5464386.00,USD
+24688201-0,Begoña Roldan Molins,Banco Itaú,5477882.00,USD
+24761775-0,María Ochoa Juárez,Banco Estado,411385.00,CLP
+24813668-9,Felipa Aliaga Suarez,Banco Internacional,1575867.00,CLP
+24834769-7,Modesto González Bernal,Banco Internacional,7868141.00,USD
+24893506-0,María Luisa Río Nadal,Banco Santander,9011063.00,CLP
+24899403-6,Reinaldo Mármol,Banco Falabella,4698711.00,EUR
+24942463-0,Eustaquio Noguera-Riera,Banco Internacional,1434534.00,CLP
+24946394-7,Serafina Figuerola Tur,Banco Internacional,3618446.00,EUR
+24965971-7,Remedios García Miralles,Banco Security,5676945.00,CLP

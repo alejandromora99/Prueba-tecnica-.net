@@ -4,7 +4,7 @@ using Quartz;
 
 var builder = WebApplication.CreateBuilder(args);
 
-//Configuro Kestrel para que escuche los puertos especificos que aparecen en launchSettings (no podia conectarme por https)
+// Configuro Kestrel para que escuche los puertos especificos que aparecen en launchSettings (no podia conectarme por https)
 builder.WebHost.ConfigureKestrel(options =>
 {
     options.ListenAnyIP(5271); // HTTP port
@@ -16,8 +16,17 @@ builder.WebHost.ConfigureKestrel(options =>
 
 // añado servicios
 builder.Services.AddControllers();
-builder.Services.AddScoped<CsvImportService>();
 
+// Definir el tamaño del lote
+int batchSize = 100; 
+
+
+//le entrego nueva instancia con tamaño del lote definido
+builder.Services.AddScoped<CsvImportService>(provider => 
+    new CsvImportService(provider.GetRequiredService<IServiceScopeFactory>(), 
+                         provider.GetRequiredService<CsvExportService>(), 
+                         batchSize));
+builder.Services.AddScoped<CsvExportService>();
 
 // Configuro entidades del framework
 builder.Services.AddDbContext<ApplicationDbContext>(options =>

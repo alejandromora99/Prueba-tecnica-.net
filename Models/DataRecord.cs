@@ -40,13 +40,17 @@ namespace CronProject.Models
 
         [Required]
         [Range(0, 9999999999999999.99)]
-        public required decimal MontoTransferencia { get; set; }
+        public decimal MontoTransferencia { get; set; }
 
         [Required]
         [MaxLength(3)]
         public required string MonedaTransferencia { get; set; }
 
         [Required]
-        public required DateTime FechaTransferencia { get; set; }
+        public DateTime FechaTransferencia { get; set; }
+
+        // Identificador de sesión de importación
+        [Required]
+        public Guid ImportSessionId { get; set; }
     }
 }
