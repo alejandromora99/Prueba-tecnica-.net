@@ -1,0 +1,3 @@
+16-06-2024 21:08:49: Tiempo de ejecucion: 2,346682 segundos
+16-06-2024 21:10:02: Tiempo de ejecucion: 2,2350489 segundos
+16-06-2024 21:10:59: Tiempo de ejecucion: 0,1929295 segundos

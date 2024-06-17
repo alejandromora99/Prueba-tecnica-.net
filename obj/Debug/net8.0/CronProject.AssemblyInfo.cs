@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CronProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49e8b18091f775dbd2463f102d0cacbd05a86f1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b9120e5f9ecaaccf28ca699a28d472b5db7665b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CronProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CronProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

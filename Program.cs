@@ -1,6 +1,9 @@
 using CronProject.Data;
 using Microsoft.EntityFrameworkCore;
 using Quartz;
+using Quartz.Impl;
+using Quartz.Spi;
+using CronProject.Jobs;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -32,6 +35,22 @@ builder.Services.AddScoped<CsvExportService>();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+// Configurar Quartz.NET
+builder.Services.AddQuartz(q =>
+{
+    // q.UseMicrosoftDependencyInjectionJobFactory();
+
+    var jobKey = new JobKey("ImportExportJob");
+
+    q.AddJob<ImportExportJob>(opts => opts.WithIdentity(jobKey));
+
+    q.AddTrigger(opts => opts
+        .ForJob(jobKey)
+        .WithIdentity("ImportExportJob-trigger")
+        .WithCronSchedule("0 0 23 * * ?")); // Programar a las 23:00 cada dia
+});
+
+builder.Services.AddQuartzHostedService(q => q.WaitForJobsToComplete = true);
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())

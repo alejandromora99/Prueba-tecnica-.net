@@ -20,7 +20,20 @@ public class ProcessController : ControllerBase
             return BadRequest("Ruta del archivo invalida");
         }
 
-        await _csvImportService.ImportAndExportCsvAsync(inputFilePath, outputFilePath);
-        return Ok("Data Procesada y Exportada Correctamente");
+        if (!System.IO.File.Exists(inputFilePath))
+        {
+            return BadRequest($"El archivo de entrada no se encuentra: {inputFilePath}");
+        }
+
+        try
+        {
+            await _csvImportService.ImportAndExportCsvAsync(inputFilePath, outputFilePath);
+            return Ok("Datos procesados y exportados correctamente.");
+        }
+        catch (Exception ex)
+        {
+            
+            return StatusCode(500, $"Error al procesar los datos: {ex.Message}");
+        }
     }
 }

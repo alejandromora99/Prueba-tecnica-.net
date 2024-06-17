@@ -21,11 +21,12 @@ public class CsvExportService
         // Exportar solo los datos con el identificador de sesión de importación especificado
         var groupedRecords = _context.DataRecords
             .Where(r => r.ImportSessionId == importSessionId)
-            .GroupBy(r => new { r.RutClienteRecibe, r.NombreClienteRecibe, r.NombreBancoReceptor, r.MonedaTransferencia })
+            .GroupBy(r => new { r.RutClienteRecibe, r.NombreClienteRecibe, r.CodigoBancoReceptor,r.NombreBancoReceptor, r.MonedaTransferencia })
             .Select(g => new ExportRecord
             {
                 RutClienteRecibe = g.Key.RutClienteRecibe,
                 NombreClienteRecibe = g.Key.NombreClienteRecibe,
+                CodigoBancoReceptor = g.Key.CodigoBancoReceptor,
                 NombreBancoReceptor = g.Key.NombreBancoReceptor,
                 MontoTotalTransferencias = g.Sum(r => r.MontoTransferencia),
                 MonedaTransferencia = g.Key.MonedaTransferencia
@@ -43,6 +44,8 @@ public class ExportRecord
 {
     public required string RutClienteRecibe { get; set; }
     public required string NombreClienteRecibe { get; set; }
+    
+    public required string CodigoBancoReceptor { get; set; }
     public required string NombreBancoReceptor { get; set; }
     public decimal MontoTotalTransferencias { get; set; }
     public required string MonedaTransferencia { get; set; }

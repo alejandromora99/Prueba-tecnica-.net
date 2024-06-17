@@ -45,10 +45,61 @@ Para la asignacion de lotes aplique logica de dividir el indice de cada registro
 
 *****************************************
 
+16/06/2024:
+
+Configure Quartz para utilizar Cron Jobs
+
+Configuro job "ImportExportJob" para las 23 horas de cada dia
+
+Cree clase ImportExportJob, para implementar logica de del JOB (solo llame a metodo de importar y exportar entregando parametros)
+
+Añadi logica de registros de tiempo de ejecucion en CsvImportService 
+
+
+Cron Job quedo confingurado. El nombre del archivo de carga es estatico (solo para el cronjob) y está en ImportExportJob.cs
+
+
+El endpoint para hacer la carga de datos y obtener el csv de salida es:
+
+
+https://localhost:7169/Process?inputFilePath=./input.csv&outputFilePath=./output.csv
+
+El archivo de carga debe estar en la raiz del proyecto.
+
+El archivo csv de salida igual se encontrara en la raiz del proyecto.
+
+Ambos parametros pueden ser modificables.
+
+**************************
+
+Hay 2 archivos de prueba para cargar data:
+
+input.csv y input2.csv, ambos en la raiz del proyecto
+
+************************
+Nota:
+Cabe mencionar que el archivo de carga de datos debe tener los siguientes campos:
+
+RutClienteEnvia,	NombreClienteEnvia,	IdTransaccion,	RutClienteRecibe,	NombreClienteRecibe,	CodigoBancoReceptor,	NombreBancoReceptor,	MontoTransferencia,	MonedaTransferencia,	FechaTransferencia
+
+******************
+
+- rut_cliente_envia: VARCHAR(12) - No permite valores nulos.
+- nombre_cliente_envia: VARCHAR(100) - No permite valores nulos.
+- id_transaccion: VARCHAR(20) - No permite valores nulos.
+- rut_cliente_recibe: VARCHAR(12) - No permite valores nulos.
+- nombre_cliente_recibe: VARCHAR(100) - No permite valores nulos.
+- codigo_banco_receptor: VARCHAR(5) - No permite valores nulos.
+- nombre_banco_receptor: VARCHAR(100) - No permite valores nulos.
+- monto_transferencia: DECIMAL(18, 2) - No permite valores nulos.
+- moneda_transferencia: VARCHAR(3) - No permite valores nulos.
+- fecha_transferencia: DATE - No permite valores nulos.
 
 
 
+Nombre BD: TransferenciasDB
 
 
-
+EndPoint para probar conexion BD: (GET)
+https://localhost:7169/Test
 

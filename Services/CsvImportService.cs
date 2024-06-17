@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using System.Diagnostics;
 
 public class CsvImportService
 {
@@ -48,12 +49,12 @@ public class CsvImportService
                              .GroupBy(x => x.index / _batchSize)
                              .Select(g => g.Select(x => x.record).ToList())
                              .ToList();
-//Si batchSize es 100, los indices de 0 a 99 estarab en el primer grupo (clave 0), los índices de 100 a 199 estarán en el segundo grupo (clave 1)
+        //Si batchSize es 100, los indices de 0 a 99 estarab en el primer grupo (clave 0), los índices de 100 a 199 estarán en el segundo grupo (clave 1)
 
         var tasks = batches.Select(batch => Task.Run(async () =>
         {
             //DbContext  no es seguro para el uso concurrente (trabajando paralelamente)
-             // Crear un nuevo alcance (scope) para cada lote
+            // Crear un nuevo alcance (scope) para cada lote
             using var scope = _scopeFactory.CreateScope();
             var context = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
 
@@ -83,9 +84,21 @@ public class CsvImportService
     {
         var importSessionId = Guid.NewGuid(); // Generar un identificador de sesión único para esta operación
 
+        var stopwatch = Stopwatch.StartNew(); //Inicio cronometro para medir el tiempo de ejecución.
+
         await ImportCsvAsync(inputFilePath, importSessionId);
         await _csvExportService.ExportCsvAsync(outputFilePath, importSessionId);
+
+        stopwatch.Stop(); //detengo cronometro
+        LogExecutionTime(stopwatch.Elapsed); //entrego tiempo total de ejecucion
     }
+
+    private void LogExecutionTime(TimeSpan elapsed)
+    {
+        var logMessage = $"Tiempo de ejecucion: {elapsed.TotalSeconds} segundos";
+        File.AppendAllText("execution_log.txt", $"{DateTime.Now}: {logMessage}{Environment.NewLine}");
+    }
+
 }
 
 public class DataRecordWithoutId
